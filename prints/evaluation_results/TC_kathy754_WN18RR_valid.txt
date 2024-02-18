@@ -1,0 +1,19 @@
+Overall Accuracy: 83 %
+Confusion Matrix:
+                                    Predicted derivationally_related_form  Predicted has_part  Predicted hypernym  Predicted member_meronym
+Actual derivationally_related_form                                    882                  43                 123                         7
+Actual has_part                                                         5                 141                   6                         1
+Actual hypernym                                                       171                  52                 939                        12
+Actual member_meronym                                                   1                   7                   2                       263
+Classification Report:
+                             precision    recall  f1-score   support
+
+derivationally_related_form       0.83      0.84      0.83      1055
+                   has_part       0.58      0.92      0.71       153
+                   hypernym       0.88      0.80      0.84      1174
+             member_meronym       0.93      0.96      0.95       273
+
+                   accuracy                           0.84      2655
+                  macro avg       0.81      0.88      0.83      2655
+               weighted avg       0.85      0.84      0.84      2655
+

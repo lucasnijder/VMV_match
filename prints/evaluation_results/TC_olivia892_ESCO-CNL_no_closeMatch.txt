@@ -1,0 +1,17 @@
+Overall Accuracy: 42 %
+Confusion Matrix:
+               Predicted broad  Predicted exact  Predicted narrow
+Actual broad               936              911               115
+Actual exact               217              714                58
+Actual narrow              457             1354               639
+Classification Report:
+              precision    recall  f1-score   support
+
+       broad       0.58      0.48      0.52      1962
+       exact       0.24      0.72      0.36       989
+      narrow       0.79      0.26      0.39      2450
+
+    accuracy                           0.42      5401
+   macro avg       0.54      0.49      0.43      5401
+weighted avg       0.61      0.42      0.43      5401
+

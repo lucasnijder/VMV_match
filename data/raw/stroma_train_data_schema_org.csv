@@ -1,0 +1,3669 @@
+head;tail;relation
+3D Model;Media Object;1
+Media Object;3D Model;2
+AM Radio Channel;Radio Channel;1
+Radio Channel;AM Radio Channel;2
+API Reference;Tech Article;1
+Tech Article;API Reference;2
+Abdomen;Physical Exam;1
+Physical Exam;Abdomen;2
+About Page;Web Page;1
+Web Page;About Page;2
+Accept Action;Allocate Action;1
+Allocate Action;Accept Action;2
+Accommodation;Place;1
+Place;Accommodation;2
+Accounting Service;Financial Service;1
+Financial Service;Accounting Service;2
+Achieve Action;Action;1
+Action;Achieve Action;2
+Action;Thing;1
+Thing;Action;2
+Action Access Specification;Intangible;1
+Intangible;Action Access Specification;2
+Action Status Type;Status Enumeration;1
+Status Enumeration;Action Status Type;2
+Activate Action;Control Action;1
+Control Action;Activate Action;2
+Activation Fee;Price Component Type Enumeration;1
+Price Component Type Enumeration;Activation Fee;2
+Active Action Status;Action Status Type;1
+Action Status Type;Active Action Status;2
+Active Not Recruiting;Medical Study Status;1
+Medical Study Status;Active Not Recruiting;2
+Add Action;Update Action;1
+Update Action;Add Action;2
+Administrative Area;Place;1
+Place;Administrative Area;2
+Adult Entertainment;Entertainment Business;1
+Entertainment Business;Adult Entertainment;2
+Adult Oriented Enumeration;Enumeration;1
+Enumeration;Adult Oriented Enumeration;2
+Advertiser Content Article;Article;1
+Article;Advertiser Content Article;2
+Aerobic Activity;Physical Activity Category;1
+Physical Activity Category;Aerobic Activity;2
+Aggregate Offer;Offer;1
+Offer;Aggregate Offer;2
+Aggregate Rating;Rating;1
+Rating;Aggregate Rating;2
+Agree Action;React Action;1
+React Action;Agree Action;2
+Airline;Organization;1
+Organization;Airline;2
+Airport;Civic Structure;1
+Civic Structure;Airport;2
+Album Release;Music Album Release Type;1
+Music Album Release Type;Album Release;2
+Alcohol Consideration;Adult Oriented Enumeration;1
+Adult Oriented Enumeration;Alcohol Consideration;2
+Alignment Object;Intangible;1
+Intangible;Alignment Object;2
+All Wheel Drive Configuration;Drive Wheel Configuration Value;1
+Drive Wheel Configuration Value;All Wheel Drive Configuration;2
+Allergies Health Aspect;Health Aspect Enumeration;1
+Health Aspect Enumeration;Allergies Health Aspect;2
+Allocate Action;Organize Action;1
+Organize Action;Allocate Action;2
+Amp Story;Creative Work;1
+Creative Work;Amp Story;2
+Amp Story;Media Object;1
+Media Object;Amp Story;2
+Amusement Park;Entertainment Business;1
+Entertainment Business;Amusement Park;2
+Anaerobic Activity;Physical Activity Category;1
+Physical Activity Category;Anaerobic Activity;2
+Analysis News Article;News Article;1
+News Article;Analysis News Article;2
+Anatomical Structure;Medical Entity;1
+Medical Entity;Anatomical Structure;2
+Anatomical System;Medical Entity;1
+Medical Entity;Anatomical System;2
+Android Platform;Digital Platform Enumeration;1
+Digital Platform Enumeration;Android Platform;2
+Anesthesia;Medical Specialty;1
+Medical Specialty;Anesthesia;2
+Animal Shelter;Local Business;1
+Local Business;Animal Shelter;2
+Answer;Comment;1
+Comment;Answer;2
+Apartment;Accommodation;1
+Accommodation;Apartment;2
+Apartment Complex;Residence;1
+Residence;Apartment Complex;2
+Appearance;Physical Exam;1
+Physical Exam;Appearance;2
+Append Action;Insert Action;1
+Insert Action;Append Action;2
+Apply Action;Organize Action;1
+Organize Action;Apply Action;2
+Approved Indication;Medical Indication;1
+Medical Indication;Approved Indication;2
+Aquarium;Civic Structure;1
+Civic Structure;Aquarium;2
+Archive Component;Creative Work;1
+Creative Work;Archive Component;2
+Archive Organization;Local Business;1
+Local Business;Archive Organization;2
+Arrive Action;Move Action;1
+Move Action;Arrive Action;2
+Art Gallery;Entertainment Business;1
+Entertainment Business;Art Gallery;2
+Artery;Vessel;1
+Vessel;Artery;2
+Article;Creative Work;1
+Creative Work;Article;2
+Ask Action;Communicate Action;1
+Communicate Action;Ask Action;2
+Ask Public News Article;News Article;1
+News Article;Ask Public News Article;2
+Assess Action;Action;1
+Action;Assess Action;2
+Assign Action;Allocate Action;1
+Allocate Action;Assign Action;2
+Atlas;Creative Work;1
+Creative Work;Atlas;2
+Attorney;Legal Service;1
+Legal Service;Attorney;2
+Audience;Intangible;1
+Intangible;Audience;2
+Audio Object;Media Object;1
+Media Object;Audio Object;2
+Audio Object Snapshot;Audio Object;1
+Audio Object;Audio Object Snapshot;2
+Audiobook;Audio Object;1
+Audio Object;Audiobook;2
+Audiobook;Book;1
+Book;Audiobook;2
+Audiobook Format;Book Format Type;1
+Book Format Type;Audiobook Format;2
+Authoritative Legal Value;Legal Value Level;1
+Legal Value Level;Authoritative Legal Value;2
+Authorize Action;Allocate Action;1
+Allocate Action;Authorize Action;2
+Auto Body Shop;Automotive Business;1
+Automotive Business;Auto Body Shop;2
+Auto Dealer;Automotive Business;1
+Automotive Business;Auto Dealer;2
+Auto Parts Store;Automotive Business;1
+Automotive Business;Auto Parts Store;2
+Auto Parts Store;Store;1
+Store;Auto Parts Store;2
+Auto Rental;Automotive Business;1
+Automotive Business;Auto Rental;2
+Auto Repair;Automotive Business;1
+Automotive Business;Auto Repair;2
+Auto Wash;Automotive Business;1
+Automotive Business;Auto Wash;2
+Automated Teller;Financial Service;1
+Financial Service;Automated Teller;2
+Automotive Business;Local Business;1
+Local Business;Automotive Business;2
+Ayurvedic;Medicine System;1
+Medicine System;Ayurvedic;2
+Back Order;Item Availability;1
+Item Availability;Back Order;2
+Background News Article;News Article;1
+News Article;Background News Article;2
+Bacteria;Infectious Agent Class;1
+Infectious Agent Class;Bacteria;2
+Bakery;Food Establishment;1
+Food Establishment;Bakery;2
+Balance;Physical Activity Category;1
+Physical Activity Category;Balance;2
+Bank Account;Financial Product;1
+Financial Product;Bank Account;2
+Bank Or Credit Union;Financial Service;1
+Financial Service;Bank Or Credit Union;2
+Bar Or Pub;Food Establishment;1
+Food Establishment;Bar Or Pub;2
+Barcode;Image Object;1
+Image Object;Barcode;2
+Basic Income;Government Benefits Type;1
+Government Benefits Type;Basic Income;2
+Beach;Civic Structure;1
+Civic Structure;Beach;2
+Beauty Salon;Health And Beauty Business;1
+Health And Beauty Business;Beauty Salon;2
+Bed And Breakfast;Lodging Business;1
+Lodging Business;Bed And Breakfast;2
+Bed Details;Intangible;1
+Intangible;Bed Details;2
+Bed Type;Qualitative Value;1
+Qualitative Value;Bed Type;2
+Befriend Action;Interact Action;1
+Interact Action;Befriend Action;2
+Benefits Health Aspect;Health Aspect Enumeration;1
+Health Aspect Enumeration;Benefits Health Aspect;2
+Bike Store;Store;1
+Store;Bike Store;2
+Bio Chem Entity;Thing;1
+Thing;Bio Chem Entity;2
+Blog;Creative Work;1
+Creative Work;Blog;2
+Blog Posting;Social Media Posting;1
+Social Media Posting;Blog Posting;2
+Blood Test;Medical Test;1
+Medical Test;Blood Test;2
+Boarding Policy Type;Enumeration;1
+Enumeration;Boarding Policy Type;2
+Boat Reservation;Reservation;1
+Reservation;Boat Reservation;2
+Boat Terminal;Civic Structure;1
+Civic Structure;Boat Terminal;2
+Boat Trip;Trip;1
+Trip;Boat Trip;2
+Body Measurement Arm;Body Measurement Type Enumeration;1
+Body Measurement Type Enumeration;Body Measurement Arm;2
+Body Measurement Bust;Body Measurement Type Enumeration;1
+Body Measurement Type Enumeration;Body Measurement Bust;2
+Body Measurement Chest;Body Measurement Type Enumeration;1
+Body Measurement Type Enumeration;Body Measurement Chest;2
+Body Measurement Foot;Body Measurement Type Enumeration;1
+Body Measurement Type Enumeration;Body Measurement Foot;2
+Body Measurement Hand;Body Measurement Type Enumeration;1
+Body Measurement Type Enumeration;Body Measurement Hand;2
+Body Measurement Head;Body Measurement Type Enumeration;1
+Body Measurement Type Enumeration;Body Measurement Head;2
+Body Measurement Height;Body Measurement Type Enumeration;1
+Body Measurement Type Enumeration;Body Measurement Height;2
+Body Measurement Hips;Body Measurement Type Enumeration;1
+Body Measurement Type Enumeration;Body Measurement Hips;2
+Body Measurement Inside Leg;Body Measurement Type Enumeration;1
+Body Measurement Type Enumeration;Body Measurement Inside Leg;2
+Body Measurement Neck;Body Measurement Type Enumeration;1
+Body Measurement Type Enumeration;Body Measurement Neck;2
+Body Measurement Type Enumeration;Measurement Type Enumeration;1
+Measurement Type Enumeration;Body Measurement Type Enumeration;2
+Body Measurement Underbust;Body Measurement Type Enumeration;1
+Body Measurement Type Enumeration;Body Measurement Underbust;2
+Body Measurement Waist;Body Measurement Type Enumeration;1
+Body Measurement Type Enumeration;Body Measurement Waist;2
+Body Measurement Weight;Body Measurement Type Enumeration;1
+Body Measurement Type Enumeration;Body Measurement Weight;2
+Body Of Water;Landform;1
+Landform;Body Of Water;2
+Bone;Anatomical Structure;1
+Anatomical Structure;Bone;2
+Book;Creative Work;1
+Creative Work;Book;2
+Book Format Type;Enumeration;1
+Enumeration;Book Format Type;2
+Book Series;Creative Work Series;1
+Creative Work Series;Book Series;2
+Book Store;Store;1
+Store;Book Store;2
+Bookmark Action;Organize Action;1
+Organize Action;Bookmark Action;2
+Boolean;;1
+;Boolean;2
+Borrow Action;Transfer Action;1
+Transfer Action;Borrow Action;2
+Bowling Alley;Sports Activity Location;1
+Sports Activity Location;Bowling Alley;2
+Brain Structure;Anatomical Structure;1
+Anatomical Structure;Brain Structure;2
+Brand;Intangible;1
+Intangible;Brand;2
+Breadcrumb List;Item List;1
+Item List;Breadcrumb List;2
+Brewery;Food Establishment;1
+Food Establishment;Brewery;2
+Bridge;Civic Structure;1
+Civic Structure;Bridge;2
+Broadcast Channel;Intangible;1
+Intangible;Broadcast Channel;2
+Broadcast Event;Publication Event;1
+Publication Event;Broadcast Event;2
+Broadcast Frequency Specification;Intangible;1
+Intangible;Broadcast Frequency Specification;2
+Broadcast Release;Music Album Release Type;1
+Music Album Release Type;Broadcast Release;2
+Broadcast Service;Service;1
+Service;Broadcast Service;2
+Brokerage Account;Investment Or Deposit;1
+Investment Or Deposit;Brokerage Account;2
+Buddhist Temple;Place Of Worship;1
+Place Of Worship;Buddhist Temple;2
+Bus Or Coach;Vehicle;1
+Vehicle;Bus Or Coach;2
+Bus Reservation;Reservation;1
+Reservation;Bus Reservation;2
+Bus Station;Civic Structure;1
+Civic Structure;Bus Station;2
+Bus Stop;Civic Structure;1
+Civic Structure;Bus Stop;2
+Bus Trip;Trip;1
+Trip;Bus Trip;2
+Business Audience;Audience;1
+Audience;Business Audience;2
+Business Entity Type;Enumeration;1
+Enumeration;Business Entity Type;2
+Business Event;Event;1
+Event;Business Event;2
+Business Function;Enumeration;1
+Enumeration;Business Function;2
+Business Support;Government Benefits Type;1
+Government Benefits Type;Business Support;2
+Buy Action;Trade Action;1
+Trade Action;Buy Action;2
+CDCPMD Record;Structured Value;1
+Structured Value;CDCPMD Record;2
+CD Format;Music Release Format Type;1
+Music Release Format Type;CD Format;2
+CT;Medical Imaging Technique;1
+Medical Imaging Technique;CT;2
+Cable Or Satellite Service;Service;1
+Service;Cable Or Satellite Service;2
+Cafe Or Coffee Shop;Food Establishment;1
+Food Establishment;Cafe Or Coffee Shop;2
+Campground;Civic Structure;1
+Civic Structure;Campground;2
+Campground;Lodging Business;1
+Lodging Business;Campground;2
+Camping Pitch;Accommodation;1
+Accommodation;Camping Pitch;2
+Canal;Body Of Water;1
+Body Of Water;Canal;2
+Cancel Action;Plan Action;1
+Plan Action;Cancel Action;2
+Car;Vehicle;1
+Vehicle;Car;2
+Car Usage Type;Enumeration;1
+Enumeration;Car Usage Type;2
+Cardiovascular;Medical Specialty;1
+Medical Specialty;Cardiovascular;2
+Cardiovascular Exam;Physical Exam;1
+Physical Exam;Cardiovascular Exam;2
+Case Series;Medical Observational Study Design;1
+Medical Observational Study Design;Case Series;2
+Casino;Entertainment Business;1
+Entertainment Business;Casino;2
+Cassette Format;Music Release Format Type;1
+Music Release Format Type;Cassette Format;2
+Category Code;Defined Term;1
+Defined Term;Category Code;2
+Category Code Set;Defined Term Set;1
+Defined Term Set;Category Code Set;2
+Catholic Church;Church;1
+Church;Catholic Church;2
+Causes Health Aspect;Health Aspect Enumeration;1
+Health Aspect Enumeration;Causes Health Aspect;2
+Cemetery;Civic Structure;1
+Civic Structure;Cemetery;2
+Chapter;Creative Work;1
+Creative Work;Chapter;2
+Charitable Incorporated Organization;UK Nonprofit Type;1
+UK Nonprofit Type;Charitable Incorporated Organization;2
+Check Action;Find Action;1
+Find Action;Check Action;2
+Check In Action;Communicate Action;1
+Communicate Action;Check In Action;2
+Check Out Action;Communicate Action;1
+Communicate Action;Check Out Action;2
+Checkout Page;Web Page;1
+Web Page;Checkout Page;2
+Chemical Substance;Bio Chem Entity;1
+Bio Chem Entity;Chemical Substance;2
+Child Care;Local Business;1
+Local Business;Child Care;2
+Childrens Event;Event;1
+Event;Childrens Event;2
+Chiropractic;Medicine System;1
+Medicine System;Chiropractic;2
+Choose Action;Assess Action;1
+Assess Action;Choose Action;2
+Church;Place Of Worship;1
+Place Of Worship;Church;2
+City;Administrative Area;1
+Administrative Area;City;2
+City Hall;Government Building;1
+Government Building;City Hall;2
+Civic Structure;Place;1
+Place;Civic Structure;2
+Claim;Creative Work;1
+Creative Work;Claim;2
+Claim Review;Review;1
+Review;Claim Review;2
+Class;Intangible;1
+Intangible;Class;2
+Cleaning Fee;Price Component Type Enumeration;1
+Price Component Type Enumeration;Cleaning Fee;2
+Clinician;Medical Audience Type;1
+Medical Audience Type;Clinician;2
+Clip;Creative Work;1
+Creative Work;Clip;2
+Clothing Store;Store;1
+Store;Clothing Store;2
+Co Op;Game Play Mode;1
+Game Play Mode;Co Op;2
+Code;Creative Work;1
+Creative Work;Code;2
+Cohort Study;Medical Observational Study Design;1
+Medical Observational Study Design;Cohort Study;2
+Collection;Creative Work;1
+Creative Work;Collection;2
+Collection Page;Web Page;1
+Web Page;Collection Page;2
+College Or University;Educational Organization;1
+Educational Organization;College Or University;2
+Comedy Club;Entertainment Business;1
+Entertainment Business;Comedy Club;2
+Comedy Event;Event;1
+Event;Comedy Event;2
+Comic Cover Art;Comic Story;1
+Comic Story;Comic Cover Art;2
+Comic Cover Art;Cover Art;1
+Cover Art;Comic Cover Art;2
+Comic Issue;Publication Issue;1
+Publication Issue;Comic Issue;2
+Comic Series;Periodical;1
+Periodical;Comic Series;2
+Comic Story;Creative Work;1
+Creative Work;Comic Story;2
+Comment;Creative Work;1
+Creative Work;Comment;2
+Comment Action;Communicate Action;1
+Communicate Action;Comment Action;2
+Comment Permission;Digital Document Permission Type;1
+Digital Document Permission Type;Comment Permission;2
+Communicate Action;Interact Action;1
+Interact Action;Communicate Action;2
+Community Health;Medical Business;1
+Medical Business;Community Health;2
+Community Health;Medical Specialty;1
+Medical Specialty;Community Health;2
+Compilation Album;Music Album Production Type;1
+Music Album Production Type;Compilation Album;2
+Complete Data Feed;Data Feed;1
+Data Feed;Complete Data Feed;2
+Completed;Medical Study Status;1
+Medical Study Status;Completed;2
+Completed Action Status;Action Status Type;1
+Action Status Type;Completed Action Status;2
+Compound Price Specification;Price Specification;1
+Price Specification;Compound Price Specification;2
+Computer Language;Intangible;1
+Intangible;Computer Language;2
+Computer Store;Store;1
+Store;Computer Store;2
+Confirm Action;Inform Action;1
+Inform Action;Confirm Action;2
+Consortium;Organization;1
+Organization;Consortium;2
+Consume Action;Action;1
+Action;Consume Action;2
+Contact Page;Web Page;1
+Web Page;Contact Page;2
+Contact Point;Structured Value;1
+Structured Value;Contact Point;2
+Contact Point Option;Enumeration;1
+Enumeration;Contact Point Option;2
+Contagiousness Health Aspect;Health Aspect Enumeration;1
+Health Aspect Enumeration;Contagiousness Health Aspect;2
+Continent;Landform;1
+Landform;Continent;2
+Control Action;Action;1
+Action;Control Action;2
+Convenience Store;Store;1
+Store;Convenience Store;2
+Conversation;Creative Work;1
+Creative Work;Conversation;2
+Cook Action;Create Action;1
+Create Action;Cook Action;2
+Corporation;Organization;1
+Organization;Corporation;2
+Correction Comment;Comment;1
+Comment;Correction Comment;2
+Country;Administrative Area;1
+Administrative Area;Country;2
+Course;Creative Work;1
+Creative Work;Course;2
+Course;Learning Resource;1
+Learning Resource;Course;2
+Course Instance;Event;1
+Event;Course Instance;2
+Courthouse;Government Building;1
+Government Building;Courthouse;2
+Cover Art;Visual Artwork;1
+Visual Artwork;Cover Art;2
+Covid Testing Facility;Medical Clinic;1
+Medical Clinic;Covid Testing Facility;2
+Create Action;Action;1
+Action;Create Action;2
+Creative Work;Thing;1
+Thing;Creative Work;2
+Creative Work Season;Creative Work;1
+Creative Work;Creative Work Season;2
+Creative Work Series;Creative Work;1
+Creative Work;Creative Work Series;2
+Creative Work Series;Series;1
+Series;Creative Work Series;2
+Credit Card;Loan Or Credit;1
+Loan Or Credit;Credit Card;2
+Credit Card;Payment Card;1
+Payment Card;Credit Card;2
+Crematorium;Civic Structure;1
+Civic Structure;Crematorium;2
+Critic Review;Review;1
+Review;Critic Review;2
+Cross Sectional;Medical Observational Study Design;1
+Medical Observational Study Design;Cross Sectional;2
+Css Selector Type;Text;1
+Text;Css Selector Type;2
+Currency Conversion Service;Financial Product;1
+Financial Product;Currency Conversion Service;2
+D Dx Element;Medical Intangible;1
+Medical Intangible;D Dx Element;2
+DJ Mix Album;Music Album Production Type;1
+Music Album Production Type;DJ Mix Album;2
+DVD Format;Music Release Format Type;1
+Music Release Format Type;DVD Format;2
+Damaged Condition;Offer Item Condition;1
+Offer Item Condition;Damaged Condition;2
+Dance Event;Event;1
+Event;Dance Event;2
+Dance Group;Performing Group;1
+Performing Group;Dance Group;2
+Dangerous Good Consideration;Adult Oriented Enumeration;1
+Adult Oriented Enumeration;Dangerous Good Consideration;2
+Data Catalog;Creative Work;1
+Creative Work;Data Catalog;2
+Data Download;Media Object;1
+Media Object;Data Download;2
+Data Feed;Dataset;1
+Dataset;Data Feed;2
+Data Feed Item;Intangible;1
+Intangible;Data Feed Item;2
+Data Type;Class;1
+Class;Data Type;2
+Dataset;Creative Work;1
+Creative Work;Dataset;2
+Date;;1
+;Date;2
+Date Time;;1
+;Date Time;2
+Dated Money Specification;Structured Value;1
+Structured Value;Dated Money Specification;2
+Day Of Week;Enumeration;1
+Enumeration;Day Of Week;2
+Day Spa;Health And Beauty Business;1
+Health And Beauty Business;Day Spa;2
+Deactivate Action;Control Action;1
+Control Action;Deactivate Action;2
+Decontextualized Content;Media Manipulation Rating Enumeration;1
+Media Manipulation Rating Enumeration;Decontextualized Content;2
+Defence Establishment;Government Building;1
+Government Building;Defence Establishment;2
+Defined Region;Structured Value;1
+Structured Value;Defined Region;2
+Defined Term;Intangible;1
+Intangible;Defined Term;2
+Defined Term Set;Creative Work;1
+Creative Work;Defined Term Set;2
+Definitive Legal Value;Legal Value Level;1
+Legal Value Level;Definitive Legal Value;2
+Delete Action;Update Action;1
+Update Action;Delete Action;2
+Delivery Charge Specification;Price Specification;1
+Price Specification;Delivery Charge Specification;2
+Delivery Event;Event;1
+Event;Delivery Event;2
+Delivery Method;Enumeration;1
+Enumeration;Delivery Method;2
+Delivery Time Settings;Structured Value;1
+Structured Value;Delivery Time Settings;2
+Demand;Intangible;1
+Intangible;Demand;2
+Demo Album;Music Album Production Type;1
+Music Album Production Type;Demo Album;2
+Demo Game Availability;Game Availability Enumeration;1
+Game Availability Enumeration;Demo Game Availability;2
+Dentist;Local Business;1
+Local Business;Dentist;2
+Dentist;Medical Business;1
+Medical Business;Dentist;2
+Dentist;Medical Organization;1
+Medical Organization;Dentist;2
+Dentistry;Medical Specialty;1
+Medical Specialty;Dentistry;2
+Depart Action;Move Action;1
+Move Action;Depart Action;2
+Department Store;Store;1
+Store;Department Store;2
+Deposit Account;Bank Account;1
+Bank Account;Deposit Account;2
+Deposit Account;Investment Or Deposit;1
+Investment Or Deposit;Deposit Account;2
+Dermatologic;Medical Specialty;1
+Medical Specialty;Dermatologic;2
+Dermatology;Medical Business;1
+Medical Business;Dermatology;2
+Dermatology;Medical Specialty;1
+Medical Specialty;Dermatology;2
+Desktop Web Platform;Digital Platform Enumeration;1
+Digital Platform Enumeration;Desktop Web Platform;2
+Diabetic Diet;Restricted Diet;1
+Restricted Diet;Diabetic Diet;2
+Diagnostic;Medical Device Purpose;1
+Medical Device Purpose;Diagnostic;2
+Diagnostic Lab;Medical Organization;1
+Medical Organization;Diagnostic Lab;2
+Diagnostic Procedure;Medical Procedure;1
+Medical Procedure;Diagnostic Procedure;2
+Diet;Creative Work;1
+Creative Work;Diet;2
+Diet;Lifestyle Modification;1
+Lifestyle Modification;Diet;2
+Diet Nutrition;Medical Business;1
+Medical Business;Diet Nutrition;2
+Diet Nutrition;Medical Specialty;1
+Medical Specialty;Diet Nutrition;2
+Dietary Supplement;Product;1
+Product;Dietary Supplement;2
+Dietary Supplement;Substance;1
+Substance;Dietary Supplement;2
+Digital Audio Tape Format;Music Release Format Type;1
+Music Release Format Type;Digital Audio Tape Format;2
+Digital Document;Creative Work;1
+Creative Work;Digital Document;2
+Digital Document Permission;Intangible;1
+Intangible;Digital Document Permission;2
+Digital Document Permission Type;Enumeration;1
+Enumeration;Digital Document Permission Type;2
+Digital Format;Music Release Format Type;1
+Music Release Format Type;Digital Format;2
+Digital Platform Enumeration;Enumeration;1
+Enumeration;Digital Platform Enumeration;2
+Disability Support;Government Benefits Type;1
+Government Benefits Type;Disability Support;2
+Disagree Action;React Action;1
+React Action;Disagree Action;2
+Discontinued;Item Availability;1
+Item Availability;Discontinued;2
+Discover Action;Find Action;1
+Find Action;Discover Action;2
+Discussion Forum Posting;Social Media Posting;1
+Social Media Posting;Discussion Forum Posting;2
+Dislike Action;React Action;1
+React Action;Dislike Action;2
+Distance;Quantity;1
+Quantity;Distance;2
+Distance Fee;Price Component Type Enumeration;1
+Price Component Type Enumeration;Distance Fee;2
+Distillery;Food Establishment;1
+Food Establishment;Distillery;2
+Donate Action;Trade Action;1
+Trade Action;Donate Action;2
+Dose Schedule;Medical Intangible;1
+Medical Intangible;Dose Schedule;2
+Double Blinded Trial;Medical Trial Design;1
+Medical Trial Design;Double Blinded Trial;2
+Download Action;Transfer Action;1
+Transfer Action;Download Action;2
+Downpayment;Price Component Type Enumeration;1
+Price Component Type Enumeration;Downpayment;2
+Draw Action;Create Action;1
+Create Action;Draw Action;2
+Drawing;Creative Work;1
+Creative Work;Drawing;2
+Drink Action;Consume Action;1
+Consume Action;Drink Action;2
+Drive Wheel Configuration Value;Qualitative Value;1
+Qualitative Value;Drive Wheel Configuration Value;2
+Driving School Vehicle Usage;Car Usage Type;1
+Car Usage Type;Driving School Vehicle Usage;2
+Drug;Product;1
+Product;Drug;2
+Drug;Substance;1
+Substance;Drug;2
+Drug Class;Medical Entity;1
+Medical Entity;Drug Class;2
+Drug Cost;Medical Entity;1
+Medical Entity;Drug Cost;2
+Drug Cost Category;Medical Enumeration;1
+Medical Enumeration;Drug Cost Category;2
+Drug Legal Status;Medical Intangible;1
+Medical Intangible;Drug Legal Status;2
+Drug Pregnancy Category;Medical Enumeration;1
+Medical Enumeration;Drug Pregnancy Category;2
+Drug Prescription Status;Medical Enumeration;1
+Medical Enumeration;Drug Prescription Status;2
+Drug Strength;Medical Intangible;1
+Medical Intangible;Drug Strength;2
+Dry Cleaning Or Laundry;Local Business;1
+Local Business;Dry Cleaning Or Laundry;2
+Duration;Quantity;1
+Quantity;Duration;2
+E Book;Book Format Type;1
+Book Format Type;E Book;2
+EP Release;Music Album Release Type;1
+Music Album Release Type;EP Release;2
+EU Energy Efficiency CategoryA;EU Energy Efficiency Enumeration;1
+EU Energy Efficiency Enumeration;EU Energy Efficiency CategoryA;2
+EU Energy Efficiency CategoryA1 Plus;EU Energy Efficiency Enumeration;1
+EU Energy Efficiency Enumeration;EU Energy Efficiency CategoryA1 Plus;2
+EU Energy Efficiency CategoryA2 Plus;EU Energy Efficiency Enumeration;1
+EU Energy Efficiency Enumeration;EU Energy Efficiency CategoryA2 Plus;2
+EU Energy Efficiency CategoryA3 Plus;EU Energy Efficiency Enumeration;1
+EU Energy Efficiency Enumeration;EU Energy Efficiency CategoryA3 Plus;2
+EU Energy Efficiency CategoryB;EU Energy Efficiency Enumeration;1
+EU Energy Efficiency Enumeration;EU Energy Efficiency CategoryB;2
+EU Energy Efficiency CategoryC;EU Energy Efficiency Enumeration;1
+EU Energy Efficiency Enumeration;EU Energy Efficiency CategoryC;2
+EU Energy Efficiency CategoryD;EU Energy Efficiency Enumeration;1
+EU Energy Efficiency Enumeration;EU Energy Efficiency CategoryD;2
+EU Energy Efficiency CategoryE;EU Energy Efficiency Enumeration;1
+EU Energy Efficiency Enumeration;EU Energy Efficiency CategoryE;2
+EU Energy Efficiency CategoryF;EU Energy Efficiency Enumeration;1
+EU Energy Efficiency Enumeration;EU Energy Efficiency CategoryF;2
+EU Energy Efficiency CategoryG;EU Energy Efficiency Enumeration;1
+EU Energy Efficiency Enumeration;EU Energy Efficiency CategoryG;2
+EU Energy Efficiency Enumeration;Energy Efficiency Enumeration;1
+Energy Efficiency Enumeration;EU Energy Efficiency Enumeration;2
+Ear;Physical Exam;1
+Physical Exam;Ear;2
+Eat Action;Consume Action;1
+Consume Action;Eat Action;2
+Edited Or Cropped Content;Media Manipulation Rating Enumeration;1
+Media Manipulation Rating Enumeration;Edited Or Cropped Content;2
+Education Event;Event;1
+Event;Education Event;2
+Educational Audience;Audience;1
+Audience;Educational Audience;2
+Educational Occupational Credential;Creative Work;1
+Creative Work;Educational Occupational Credential;2
+Educational Occupational Program;Intangible;1
+Intangible;Educational Occupational Program;2
+Educational Organization;Civic Structure;1
+Civic Structure;Educational Organization;2
+Educational Organization;Organization;1
+Organization;Educational Organization;2
+Effectiveness Health Aspect;Health Aspect Enumeration;1
+Health Aspect Enumeration;Effectiveness Health Aspect;2
+Electrician;Home And Construction Business;1
+Home And Construction Business;Electrician;2
+Electronics Store;Store;1
+Store;Electronics Store;2
+Elementary School;Educational Organization;1
+Educational Organization;Elementary School;2
+Email Message;Message;1
+Message;Email Message;2
+Embassy;Government Building;1
+Government Building;Embassy;2
+Emergency;Medical Business;1
+Medical Business;Emergency;2
+Emergency;Medical Specialty;1
+Medical Specialty;Emergency;2
+Emergency Service;Local Business;1
+Local Business;Emergency Service;2
+Employee Role;Organization Role;1
+Organization Role;Employee Role;2
+Employer Aggregate Rating;Aggregate Rating;1
+Aggregate Rating;Employer Aggregate Rating;2
+Employer Review;Review;1
+Review;Employer Review;2
+Employment Agency;Local Business;1
+Local Business;Employment Agency;2
+Endocrine;Medical Specialty;1
+Medical Specialty;Endocrine;2
+Endorse Action;React Action;1
+React Action;Endorse Action;2
+Endorsement Rating;Rating;1
+Rating;Endorsement Rating;2
+Energy;Quantity;1
+Quantity;Energy;2
+Energy Consumption Details;Intangible;1
+Intangible;Energy Consumption Details;2
+Energy Efficiency Enumeration;Enumeration;1
+Enumeration;Energy Efficiency Enumeration;2
+Energy Star Certified;Energy Star Energy Efficiency Enumeration;1
+Energy Star Energy Efficiency Enumeration;Energy Star Certified;2
+Energy Star Energy Efficiency Enumeration;Energy Efficiency Enumeration;1
+Energy Efficiency Enumeration;Energy Star Energy Efficiency Enumeration;2
+Engine Specification;Structured Value;1
+Structured Value;Engine Specification;2
+Enrolling By Invitation;Medical Study Status;1
+Medical Study Status;Enrolling By Invitation;2
+Entertainment Business;Local Business;1
+Local Business;Entertainment Business;2
+Entry Point;Intangible;1
+Intangible;Entry Point;2
+Enumeration;Intangible;1
+Intangible;Enumeration;2
+Episode;Creative Work;1
+Creative Work;Episode;2
+Event;Thing;1
+Thing;Event;2
+Event Attendance Mode Enumeration;Enumeration;1
+Enumeration;Event Attendance Mode Enumeration;2
+Event Cancelled;Event Status Type;1
+Event Status Type;Event Cancelled;2
+Event Moved Online;Event Status Type;1
+Event Status Type;Event Moved Online;2
+Event Postponed;Event Status Type;1
+Event Status Type;Event Postponed;2
+Event Rescheduled;Event Status Type;1
+Event Status Type;Event Rescheduled;2
+Event Reservation;Reservation;1
+Reservation;Event Reservation;2
+Event Scheduled;Event Status Type;1
+Event Status Type;Event Scheduled;2
+Event Series;Event;1
+Event;Event Series;2
+Event Series;Series;1
+Series;Event Series;2
+Event Status Type;Status Enumeration;1
+Status Enumeration;Event Status Type;2
+Event Venue;Civic Structure;1
+Civic Structure;Event Venue;2
+Evidence LevelA;Medical Evidence Level;1
+Medical Evidence Level;Evidence LevelA;2
+Evidence LevelB;Medical Evidence Level;1
+Medical Evidence Level;Evidence LevelB;2
+Evidence LevelC;Medical Evidence Level;1
+Medical Evidence Level;Evidence LevelC;2
+Exchange Rate Specification;Structured Value;1
+Structured Value;Exchange Rate Specification;2
+Exchange Refund;Refund Type Enumeration;1
+Refund Type Enumeration;Exchange Refund;2
+Exercise Action;Play Action;1
+Play Action;Exercise Action;2
+Exercise Gym;Sports Activity Location;1
+Sports Activity Location;Exercise Gym;2
+Exercise Plan;Creative Work;1
+Creative Work;Exercise Plan;2
+Exercise Plan;Physical Activity;1
+Physical Activity;Exercise Plan;2
+Exhibition Event;Event;1
+Event;Exhibition Event;2
+Eye;Physical Exam;1
+Physical Exam;Eye;2
+FAQ Page;Web Page;1
+Web Page;FAQ Page;2
+FD AcategoryA;Drug Pregnancy Category;1
+Drug Pregnancy Category;FD AcategoryA;2
+FD AcategoryB;Drug Pregnancy Category;1
+Drug Pregnancy Category;FD AcategoryB;2
+FD AcategoryC;Drug Pregnancy Category;1
+Drug Pregnancy Category;FD AcategoryC;2
+FD AcategoryD;Drug Pregnancy Category;1
+Drug Pregnancy Category;FD AcategoryD;2
+FD AcategoryX;Drug Pregnancy Category;1
+Drug Pregnancy Category;FD AcategoryX;2
+FD Anot Evaluated;Drug Pregnancy Category;1
+Drug Pregnancy Category;FD Anot Evaluated;2
+FM Radio Channel;Radio Channel;1
+Radio Channel;FM Radio Channel;2
+Failed Action Status;Action Status Type;1
+Action Status Type;Failed Action Status;2
+FALSE;;1
+;FALSE;2
+Fast Food Restaurant;Food Establishment;1
+Food Establishment;Fast Food Restaurant;2
+Female;Gender Type;1
+Gender Type;Female;2
+Festival;Event;1
+Event;Festival;2
+Film Action;Create Action;1
+Create Action;Film Action;2
+Financial Product;Service;1
+Service;Financial Product;2
+Financial Service;Local Business;1
+Local Business;Financial Service;2
+Find Action;Action;1
+Action;Find Action;2
+Fire Station;Civic Structure;1
+Civic Structure;Fire Station;2
+Fire Station;Emergency Service;1
+Emergency Service;Fire Station;2
+Flexibility;Physical Activity Category;1
+Physical Activity Category;Flexibility;2
+Flight;Trip;1
+Trip;Flight;2
+Flight Reservation;Reservation;1
+Reservation;Flight Reservation;2
+Float;Number;1
+Number;Float;2
+Floor Plan;Intangible;1
+Intangible;Floor Plan;2
+Florist;Store;1
+Store;Florist;2
+Follow Action;Interact Action;1
+Interact Action;Follow Action;2
+Food Establishment;Local Business;1
+Local Business;Food Establishment;2
+Food Establishment Reservation;Reservation;1
+Reservation;Food Establishment Reservation;2
+Food Event;Event;1
+Event;Food Event;2
+Food Service;Service;1
+Service;Food Service;2
+Four Wheel Drive Configuration;Drive Wheel Configuration Value;1
+Drive Wheel Configuration Value;Four Wheel Drive Configuration;2
+Free Return;Return Fees Enumeration;1
+Return Fees Enumeration;Free Return;2
+Friday;Day Of Week;1
+Day Of Week;Friday;2
+Front Wheel Drive Configuration;Drive Wheel Configuration Value;1
+Drive Wheel Configuration Value;Front Wheel Drive Configuration;2
+Full Game Availability;Game Availability Enumeration;1
+Game Availability Enumeration;Full Game Availability;2
+Full Refund;Refund Type Enumeration;1
+Refund Type Enumeration;Full Refund;2
+Funding Agency;Project;1
+Project;Funding Agency;2
+Funding Scheme;Organization;1
+Organization;Funding Scheme;2
+Fungus;Infectious Agent Class;1
+Infectious Agent Class;Fungus;2
+Furniture Store;Store;1
+Store;Furniture Store;2
+Game;Creative Work;1
+Creative Work;Game;2
+Game Availability Enumeration;Enumeration;1
+Enumeration;Game Availability Enumeration;2
+Game Play Mode;Enumeration;1
+Enumeration;Game Play Mode;2
+Game Server;Intangible;1
+Intangible;Game Server;2
+Game Server Status;Status Enumeration;1
+Status Enumeration;Game Server Status;2
+Garden Store;Store;1
+Store;Garden Store;2
+Gas Station;Automotive Business;1
+Automotive Business;Gas Station;2
+Gastroenterologic;Medical Specialty;1
+Medical Specialty;Gastroenterologic;2
+Gated Residence Community;Residence;1
+Residence;Gated Residence Community;2
+Gender Type;Enumeration;1
+Enumeration;Gender Type;2
+Gene;Bio Chem Entity;1
+Bio Chem Entity;Gene;2
+General Contractor;Home And Construction Business;1
+Home And Construction Business;General Contractor;2
+Generic Web Platform;Digital Platform Enumeration;1
+Digital Platform Enumeration;Generic Web Platform;2
+Genetic;Medical Specialty;1
+Medical Specialty;Genetic;2
+Genitourinary;Physical Exam;1
+Physical Exam;Genitourinary;2
+Geo Circle;Geo Shape;1
+Geo Shape;Geo Circle;2
+Geo Coordinates;Structured Value;1
+Structured Value;Geo Coordinates;2
+Geo Shape;Structured Value;1
+Structured Value;Geo Shape;2
+Geospatial Geometry;Intangible;1
+Intangible;Geospatial Geometry;2
+Geriatric;Medical Business;1
+Medical Business;Geriatric;2
+Geriatric;Medical Specialty;1
+Medical Specialty;Geriatric;2
+Getting Access Health Aspect;Health Aspect Enumeration;1
+Health Aspect Enumeration;Getting Access Health Aspect;2
+Give Action;Transfer Action;1
+Transfer Action;Give Action;2
+Gluten Free Diet;Restricted Diet;1
+Restricted Diet;Gluten Free Diet;2
+Golf Course;Sports Activity Location;1
+Sports Activity Location;Golf Course;2
+Government Benefits Type;Enumeration;1
+Enumeration;Government Benefits Type;2
+Government Building;Civic Structure;1
+Civic Structure;Government Building;2
+Government Office;Local Business;1
+Local Business;Government Office;2
+Government Organization;Organization;1
+Organization;Government Organization;2
+Government Permit;Permit;1
+Permit;Government Permit;2
+Government Service;Service;1
+Service;Government Service;2
+Grant;Intangible;1
+Intangible;Grant;2
+Graphic Novel;Book Format Type;1
+Book Format Type;Graphic Novel;2
+Grocery Store;Store;1
+Store;Grocery Store;2
+Group Boarding Policy;Boarding Policy Type;1
+Boarding Policy Type;Group Boarding Policy;2
+Guide;Creative Work;1
+Creative Work;Guide;2
+Gynecologic;Medical Business;1
+Medical Business;Gynecologic;2
+Gynecologic;Medical Specialty;1
+Medical Specialty;Gynecologic;2
+HVAC Business;Home And Construction Business;1
+Home And Construction Business;HVAC Business;2
+Hackathon;Event;1
+Event;Hackathon;2
+Hair Salon;Health And Beauty Business;1
+Health And Beauty Business;Hair Salon;2
+Halal Diet;Restricted Diet;1
+Restricted Diet;Halal Diet;2
+Hardcover;Book Format Type;1
+Book Format Type;Hardcover;2
+Hardware Store;Store;1
+Store;Hardware Store;2
+Head;Physical Exam;1
+Physical Exam;Head;2
+Health And Beauty Business;Local Business;1
+Local Business;Health And Beauty Business;2
+Health Aspect Enumeration;Enumeration;1
+Enumeration;Health Aspect Enumeration;2
+Health Care;Government Benefits Type;1
+Government Benefits Type;Health Care;2
+Health Club;Health And Beauty Business;1
+Health And Beauty Business;Health Club;2
+Health Club;Sports Activity Location;1
+Sports Activity Location;Health Club;2
+Health Insurance Plan;Intangible;1
+Intangible;Health Insurance Plan;2
+Health Plan Cost Sharing Specification;Intangible;1
+Intangible;Health Plan Cost Sharing Specification;2
+Health Plan Formulary;Intangible;1
+Intangible;Health Plan Formulary;2
+Health Plan Network;Intangible;1
+Intangible;Health Plan Network;2
+Health Topic Content;Web Content;1
+Web Content;Health Topic Content;2
+Healthcare Consideration;Adult Oriented Enumeration;1
+Adult Oriented Enumeration;Healthcare Consideration;2
+Hearing Impaired Supported;Contact Point Option;1
+Contact Point Option;Hearing Impaired Supported;2
+Hematologic;Medical Specialty;1
+Medical Specialty;Hematologic;2
+High School;Educational Organization;1
+Educational Organization;High School;2
+Hindu Diet;Restricted Diet;1
+Restricted Diet;Hindu Diet;2
+Hindu Temple;Place Of Worship;1
+Place Of Worship;Hindu Temple;2
+Hobby Shop;Store;1
+Store;Hobby Shop;2
+Home And Construction Business;Local Business;1
+Local Business;Home And Construction Business;2
+Home Goods Store;Store;1
+Store;Home Goods Store;2
+Homeopathic;Medicine System;1
+Medicine System;Homeopathic;2
+Hospital;Civic Structure;1
+Civic Structure;Hospital;2
+Hospital;Emergency Service;1
+Emergency Service;Hospital;2
+Hospital;Medical Organization;1
+Medical Organization;Hospital;2
+Hostel;Lodging Business;1
+Lodging Business;Hostel;2
+Hotel;Lodging Business;1
+Lodging Business;Hotel;2
+Hotel Room;Room;1
+Room;Hotel Room;2
+House;Accommodation;1
+Accommodation;House;2
+House Painter;Home And Construction Business;1
+Home And Construction Business;House Painter;2
+How It Works Health Aspect;Health Aspect Enumeration;1
+Health Aspect Enumeration;How It Works Health Aspect;2
+How Or Where Health Aspect;Health Aspect Enumeration;1
+Health Aspect Enumeration;How Or Where Health Aspect;2
+How To;Creative Work;1
+Creative Work;How To;2
+How To Direction;Creative Work;1
+Creative Work;How To Direction;2
+How To Direction;List Item;1
+List Item;How To Direction;2
+How To Item;List Item;1
+List Item;How To Item;2
+How To Section;Creative Work;1
+Creative Work;How To Section;2
+How To Section;Item List;1
+Item List;How To Section;2
+How To Section;List Item;1
+List Item;How To Section;2
+How To Step;Creative Work;1
+Creative Work;How To Step;2
+How To Step;Item List;1
+Item List;How To Step;2
+How To Step;List Item;1
+List Item;How To Step;2
+How To Supply;How To Item;1
+How To Item;How To Supply;2
+How To Tip;Creative Work;1
+Creative Work;How To Tip;2
+How To Tip;List Item;1
+List Item;How To Tip;2
+How To Tool;How To Item;1
+How To Item;How To Tool;2
+Hyper Toc;Creative Work;1
+Creative Work;Hyper Toc;2
+Hyper Toc Entry;Creative Work;1
+Creative Work;Hyper Toc Entry;2
+IOS Platform;Digital Platform Enumeration;1
+Digital Platform Enumeration;IOS Platform;2
+Ice Cream Shop;Food Establishment;1
+Food Establishment;Ice Cream Shop;2
+Ignore Action;Assess Action;1
+Assess Action;Ignore Action;2
+Image Gallery;Media Gallery;1
+Media Gallery;Image Gallery;2
+Image Object;Media Object;1
+Media Object;Image Object;2
+Image Object Snapshot;Image Object;1
+Image Object;Image Object Snapshot;2
+Imaging Test;Medical Test;1
+Medical Test;Imaging Test;2
+In Force;Legal Force Status;1
+Legal Force Status;In Force;2
+In Stock;Item Availability;1
+Item Availability;In Stock;2
+In Store Only;Item Availability;1
+Item Availability;In Store Only;2
+Individual Product;Product;1
+Product;Individual Product;2
+Infectious;Medical Specialty;1
+Medical Specialty;Infectious;2
+Infectious Agent Class;Medical Enumeration;1
+Medical Enumeration;Infectious Agent Class;2
+Infectious Disease;Medical Condition;1
+Medical Condition;Infectious Disease;2
+Inform Action;Communicate Action;1
+Communicate Action;Inform Action;2
+Ingredients Health Aspect;Health Aspect Enumeration;1
+Health Aspect Enumeration;Ingredients Health Aspect;2
+Insert Action;Add Action;1
+Add Action;Insert Action;2
+Install Action;Consume Action;1
+Consume Action;Install Action;2
+Installment;Price Component Type Enumeration;1
+Price Component Type Enumeration;Installment;2
+Insurance Agency;Financial Service;1
+Financial Service;Insurance Agency;2
+Intangible;Thing;1
+Thing;Intangible;2
+Integer;Number;1
+Number;Integer;2
+Interact Action;Action;1
+Action;Interact Action;2
+Interaction Counter;Structured Value;1
+Structured Value;Interaction Counter;2
+International Trial;Medical Trial Design;1
+Medical Trial Design;International Trial;2
+Internet Cafe;Local Business;1
+Local Business;Internet Cafe;2
+Investment Fund;Investment Or Deposit;1
+Investment Or Deposit;Investment Fund;2
+Investment Or Deposit;Financial Product;1
+Financial Product;Investment Or Deposit;2
+Invite Action;Communicate Action;1
+Communicate Action;Invite Action;2
+Invoice;Intangible;1
+Intangible;Invoice;2
+Invoice Price;Price Type Enumeration;1
+Price Type Enumeration;Invoice Price;2
+Item Availability;Enumeration;1
+Enumeration;Item Availability;2
+Item List;Intangible;1
+Intangible;Item List;2
+Item List Order Ascending;Item List Order Type;1
+Item List Order Type;Item List Order Ascending;2
+Item List Order Descending;Item List Order Type;1
+Item List Order Type;Item List Order Descending;2
+Item List Order Type;Enumeration;1
+Enumeration;Item List Order Type;2
+Item List Unordered;Item List Order Type;1
+Item List Order Type;Item List Unordered;2
+Item Page;Web Page;1
+Web Page;Item Page;2
+Jewelry Store;Store;1
+Store;Jewelry Store;2
+Job Posting;Intangible;1
+Intangible;Job Posting;2
+Join Action;Interact Action;1
+Interact Action;Join Action;2
+Joint;Anatomical Structure;1
+Anatomical Structure;Joint;2
+Kosher Diet;Restricted Diet;1
+Restricted Diet;Kosher Diet;2
+Laboratory Science;Medical Specialty;1
+Medical Specialty;Laboratory Science;2
+Lake Body Of Water;Body Of Water;1
+Body Of Water;Lake Body Of Water;2
+Landform;Place;1
+Place;Landform;2
+Landmarks Or Historical Buildings;Place;1
+Place;Landmarks Or Historical Buildings;2
+Language;Intangible;1
+Intangible;Language;2
+Laser Disc Format;Music Release Format Type;1
+Music Release Format Type;Laser Disc Format;2
+Learning Resource;Creative Work;1
+Creative Work;Learning Resource;2
+Leave Action;Interact Action;1
+Interact Action;Leave Action;2
+Left Hand Driving;Steering Position Value;1
+Steering Position Value;Left Hand Driving;2
+Legal Force Status;Status Enumeration;1
+Status Enumeration;Legal Force Status;2
+Legal Service;Local Business;1
+Local Business;Legal Service;2
+Legal Value Level;Enumeration;1
+Enumeration;Legal Value Level;2
+Legislation;Creative Work;1
+Creative Work;Legislation;2
+Legislation Object;Legislation;1
+Legislation;Legislation Object;2
+Legislation Object;Media Object;1
+Media Object;Legislation Object;2
+Legislative Building;Government Building;1
+Government Building;Legislative Building;2
+Leisure Time Activity;Physical Activity Category;1
+Physical Activity Category;Leisure Time Activity;2
+Lend Action;Transfer Action;1
+Transfer Action;Lend Action;2
+Library;Local Business;1
+Local Business;Library;2
+Library System;Organization;1
+Organization;Library System;2
+Lifestyle Modification;Medical Entity;1
+Medical Entity;Lifestyle Modification;2
+Ligament;Anatomical Structure;1
+Anatomical Structure;Ligament;2
+Like Action;React Action;1
+React Action;Like Action;2
+Limited Availability;Item Availability;1
+Item Availability;Limited Availability;2
+Limited By Guarantee Charity;UK Nonprofit Type;1
+UK Nonprofit Type;Limited By Guarantee Charity;2
+Link Role;Role;1
+Role;Link Role;2
+Liquor Store;Store;1
+Store;Liquor Store;2
+List Item;Intangible;1
+Intangible;List Item;2
+List Price;Price Type Enumeration;1
+Price Type Enumeration;List Price;2
+Listen Action;Consume Action;1
+Consume Action;Listen Action;2
+Literary Event;Event;1
+Event;Literary Event;2
+Live Album;Music Album Production Type;1
+Music Album Production Type;Live Album;2
+Live Blog Posting;Blog Posting;1
+Blog Posting;Live Blog Posting;2
+Living With Health Aspect;Health Aspect Enumeration;1
+Health Aspect Enumeration;Living With Health Aspect;2
+Loan Or Credit;Financial Product;1
+Financial Product;Loan Or Credit;2
+Local Business;Organization;1
+Organization;Local Business;2
+Local Business;Place;1
+Place;Local Business;2
+Location Feature Specification;Property Value;1
+Property Value;Location Feature Specification;2
+Locker Delivery;Delivery Method;1
+Delivery Method;Locker Delivery;2
+Locksmith;Home And Construction Business;1
+Home And Construction Business;Locksmith;2
+Lodging Business;Local Business;1
+Local Business;Lodging Business;2
+Lodging Reservation;Reservation;1
+Reservation;Lodging Reservation;2
+Longitudinal;Medical Observational Study Design;1
+Medical Observational Study Design;Longitudinal;2
+Lose Action;Achieve Action;1
+Achieve Action;Lose Action;2
+Low Calorie Diet;Restricted Diet;1
+Restricted Diet;Low Calorie Diet;2
+Low Fat Diet;Restricted Diet;1
+Restricted Diet;Low Fat Diet;2
+Low Lactose Diet;Restricted Diet;1
+Restricted Diet;Low Lactose Diet;2
+Low Salt Diet;Restricted Diet;1
+Restricted Diet;Low Salt Diet;2
+Lung;Physical Exam;1
+Physical Exam;Lung;2
+Lymphatic Vessel;Vessel;1
+Vessel;Lymphatic Vessel;2
+MRI;Medical Imaging Technique;1
+Medical Imaging Technique;MRI;2
+MSRP;Price Type Enumeration;1
+Price Type Enumeration;MSRP;2
+Male;Gender Type;1
+Gender Type;Male;2
+Manuscript;Creative Work;1
+Creative Work;Manuscript;2
+Map;Creative Work;1
+Creative Work;Map;2
+Map Category Type;Enumeration;1
+Enumeration;Map Category Type;2
+Marry Action;Interact Action;1
+Interact Action;Marry Action;2
+Mass;Quantity;1
+Quantity;Mass;2
+Math Solver;Creative Work;1
+Creative Work;Math Solver;2
+Maximum Dose Schedule;Dose Schedule;1
+Dose Schedule;Maximum Dose Schedule;2
+May Treat Health Aspect;Health Aspect Enumeration;1
+Health Aspect Enumeration;May Treat Health Aspect;2
+Measurement Type Enumeration;Enumeration;1
+Enumeration;Measurement Type Enumeration;2
+Media Gallery;Collection Page;1
+Collection Page;Media Gallery;2
+Media Manipulation Rating Enumeration;Enumeration;1
+Enumeration;Media Manipulation Rating Enumeration;2
+Media Object;Creative Work;1
+Creative Work;Media Object;2
+Media Review;Review;1
+Review;Media Review;2
+Media Review Item;Creative Work;1
+Creative Work;Media Review Item;2
+Media Subscription;Intangible;1
+Intangible;Media Subscription;2
+Medical Audience;Audience;1
+Audience;Medical Audience;2
+Medical Audience;People Audience;1
+People Audience;Medical Audience;2
+Medical Audience Type;Medical Enumeration;1
+Medical Enumeration;Medical Audience Type;2
+Medical Business;Local Business;1
+Local Business;Medical Business;2
+Medical Cause;Medical Entity;1
+Medical Entity;Medical Cause;2
+Medical Clinic;Medical Business;1
+Medical Business;Medical Clinic;2
+Medical Clinic;Medical Organization;1
+Medical Organization;Medical Clinic;2
+Medical Code;Category Code;1
+Category Code;Medical Code;2
+Medical Code;Medical Intangible;1
+Medical Intangible;Medical Code;2
+Medical Condition;Medical Entity;1
+Medical Entity;Medical Condition;2
+Medical Condition Stage;Medical Intangible;1
+Medical Intangible;Medical Condition Stage;2
+Medical Contraindication;Medical Entity;1
+Medical Entity;Medical Contraindication;2
+Medical Device;Medical Entity;1
+Medical Entity;Medical Device;2
+Medical Device Purpose;Medical Enumeration;1
+Medical Enumeration;Medical Device Purpose;2
+Medical Entity;Thing;1
+Thing;Medical Entity;2
+Medical Enumeration;Enumeration;1
+Enumeration;Medical Enumeration;2
+Medical Evidence Level;Medical Enumeration;1
+Medical Enumeration;Medical Evidence Level;2
+Medical Guideline;Medical Entity;1
+Medical Entity;Medical Guideline;2
+Medical Guideline Contraindication;Medical Guideline;1
+Medical Guideline;Medical Guideline Contraindication;2
+Medical Guideline Recommendation;Medical Guideline;1
+Medical Guideline;Medical Guideline Recommendation;2
+Medical Imaging Technique;Medical Enumeration;1
+Medical Enumeration;Medical Imaging Technique;2
+Medical Indication;Medical Entity;1
+Medical Entity;Medical Indication;2
+Medical Intangible;Medical Entity;1
+Medical Entity;Medical Intangible;2
+Medical Observational Study;Medical Study;1
+Medical Study;Medical Observational Study;2
+Medical Observational Study Design;Medical Enumeration;1
+Medical Enumeration;Medical Observational Study Design;2
+Medical Organization;Organization;1
+Organization;Medical Organization;2
+Medical Procedure;Medical Entity;1
+Medical Entity;Medical Procedure;2
+Medical Procedure Type;Medical Enumeration;1
+Medical Enumeration;Medical Procedure Type;2
+Medical Researcher;Medical Audience Type;1
+Medical Audience Type;Medical Researcher;2
+Medical Risk Calculator;Medical Risk Estimator;1
+Medical Risk Estimator;Medical Risk Calculator;2
+Medical Risk Estimator;Medical Entity;1
+Medical Entity;Medical Risk Estimator;2
+Medical Risk Factor;Medical Entity;1
+Medical Entity;Medical Risk Factor;2
+Medical Risk Score;Medical Risk Estimator;1
+Medical Risk Estimator;Medical Risk Score;2
+Medical Scholarly Article;Scholarly Article;1
+Scholarly Article;Medical Scholarly Article;2
+Medical Sign;Medical Sign Or Symptom;1
+Medical Sign Or Symptom;Medical Sign;2
+Medical Sign Or Symptom;Medical Condition;1
+Medical Condition;Medical Sign Or Symptom;2
+Medical Specialty;Medical Enumeration;1
+Medical Enumeration;Medical Specialty;2
+Medical Specialty;Specialty;1
+Specialty;Medical Specialty;2
+Medical Study;Medical Entity;1
+Medical Entity;Medical Study;2
+Medical Study Status;Medical Enumeration;1
+Medical Enumeration;Medical Study Status;2
+Medical Symptom;Medical Sign Or Symptom;1
+Medical Sign Or Symptom;Medical Symptom;2
+Medical Test;Medical Entity;1
+Medical Entity;Medical Test;2
+Medical Test Panel;Medical Test;1
+Medical Test;Medical Test Panel;2
+Medical Therapy;Therapeutic Procedure;1
+Therapeutic Procedure;Medical Therapy;2
+Medical Trial;Medical Study;1
+Medical Study;Medical Trial;2
+Medical Trial Design;Medical Enumeration;1
+Medical Enumeration;Medical Trial Design;2
+Medical Web Page;Web Page;1
+Web Page;Medical Web Page;2
+Medicine System;Medical Enumeration;1
+Medical Enumeration;Medicine System;2
+Meeting Room;Room;1
+Room;Meeting Room;2
+Mens Clothing Store;Store;1
+Store;Mens Clothing Store;2
+Menu;Creative Work;1
+Creative Work;Menu;2
+Menu Item;Intangible;1
+Intangible;Menu Item;2
+Menu Section;Creative Work;1
+Creative Work;Menu Section;2
+Merchant Return Enumeration;Enumeration;1
+Enumeration;Merchant Return Enumeration;2
+Merchant Return Finite Return Window;Merchant Return Enumeration;1
+Merchant Return Enumeration;Merchant Return Finite Return Window;2
+Merchant Return Not Permitted;Merchant Return Enumeration;1
+Merchant Return Enumeration;Merchant Return Not Permitted;2
+Merchant Return Policy;Intangible;1
+Intangible;Merchant Return Policy;2
+Merchant Return Policy Seasonal Override;Intangible;1
+Intangible;Merchant Return Policy Seasonal Override;2
+Merchant Return Unlimited Window;Merchant Return Enumeration;1
+Merchant Return Enumeration;Merchant Return Unlimited Window;2
+Merchant Return Unspecified;Merchant Return Enumeration;1
+Merchant Return Enumeration;Merchant Return Unspecified;2
+Message;Creative Work;1
+Creative Work;Message;2
+Middle School;Educational Organization;1
+Educational Organization;Middle School;2
+Midwifery;Medical Business;1
+Medical Business;Midwifery;2
+Midwifery;Medical Specialty;1
+Medical Specialty;Midwifery;2
+Minimum Advertised Price;Price Type Enumeration;1
+Price Type Enumeration;Minimum Advertised Price;2
+Misconceptions Health Aspect;Health Aspect Enumeration;1
+Health Aspect Enumeration;Misconceptions Health Aspect;2
+Mixed Event Attendance Mode;Event Attendance Mode Enumeration;1
+Event Attendance Mode Enumeration;Mixed Event Attendance Mode;2
+Mixtape Album;Music Album Production Type;1
+Music Album Production Type;Mixtape Album;2
+Mobile Application;Software Application;1
+Software Application;Mobile Application;2
+Mobile Phone Store;Store;1
+Store;Mobile Phone Store;2
+Mobile Web Platform;Digital Platform Enumeration;1
+Digital Platform Enumeration;Mobile Web Platform;2
+Molecular Entity;Bio Chem Entity;1
+Bio Chem Entity;Molecular Entity;2
+Monday;Day Of Week;1
+Day Of Week;Monday;2
+Monetary Amount;Structured Value;1
+Structured Value;Monetary Amount;2
+Monetary Amount Distribution;Quantitative Value Distribution;1
+Quantitative Value Distribution;Monetary Amount Distribution;2
+Monetary Grant;Grant;1
+Grant;Monetary Grant;2
+Money Transfer;Transfer Action;1
+Transfer Action;Money Transfer;2
+Mortgage Loan;Loan Or Credit;1
+Loan Or Credit;Mortgage Loan;2
+Mosque;Place Of Worship;1
+Place Of Worship;Mosque;2
+Motel;Lodging Business;1
+Lodging Business;Motel;2
+Motorcycle;Vehicle;1
+Vehicle;Motorcycle;2
+Motorcycle Dealer;Automotive Business;1
+Automotive Business;Motorcycle Dealer;2
+Motorcycle Repair;Automotive Business;1
+Automotive Business;Motorcycle Repair;2
+Motorized Bicycle;Vehicle;1
+Vehicle;Motorized Bicycle;2
+Mountain;Landform;1
+Landform;Mountain;2
+Move Action;Action;1
+Action;Move Action;2
+Movie;Creative Work;1
+Creative Work;Movie;2
+Movie Clip;Clip;1
+Clip;Movie Clip;2
+Movie Rental Store;Store;1
+Store;Movie Rental Store;2
+Movie Series;Creative Work Series;1
+Creative Work Series;Movie Series;2
+Movie Theater;Civic Structure;1
+Civic Structure;Movie Theater;2
+Movie Theater;Entertainment Business;1
+Entertainment Business;Movie Theater;2
+Moving Company;Home And Construction Business;1
+Home And Construction Business;Moving Company;2
+Multi Center Trial;Medical Trial Design;1
+Medical Trial Design;Multi Center Trial;2
+Multi Player;Game Play Mode;1
+Game Play Mode;Multi Player;2
+Multicellular Parasite;Infectious Agent Class;1
+Infectious Agent Class;Multicellular Parasite;2
+Muscle;Anatomical Structure;1
+Anatomical Structure;Muscle;2
+Musculoskeletal;Medical Specialty;1
+Medical Specialty;Musculoskeletal;2
+Musculoskeletal Exam;Physical Exam;1
+Physical Exam;Musculoskeletal Exam;2
+Museum;Civic Structure;1
+Civic Structure;Museum;2
+Music Album;Music Playlist;1
+Music Playlist;Music Album;2
+Music Album Production Type;Enumeration;1
+Enumeration;Music Album Production Type;2
+Music Album Release Type;Enumeration;1
+Enumeration;Music Album Release Type;2
+Music Composition;Creative Work;1
+Creative Work;Music Composition;2
+Music Event;Event;1
+Event;Music Event;2
+Music Group;Performing Group;1
+Performing Group;Music Group;2
+Music Playlist;Creative Work;1
+Creative Work;Music Playlist;2
+Music Recording;Creative Work;1
+Creative Work;Music Recording;2
+Music Release;Music Playlist;1
+Music Playlist;Music Release;2
+Music Release Format Type;Enumeration;1
+Enumeration;Music Release Format Type;2
+Music Store;Store;1
+Store;Music Store;2
+Music Venue;Civic Structure;1
+Civic Structure;Music Venue;2
+Music Video Object;Media Object;1
+Media Object;Music Video Object;2
+NGO;Organization;1
+Organization;NGO;2
+NL Nonprofit Type;Nonprofit Type;1
+Nonprofit Type;NL Nonprofit Type;2
+Nail Salon;Health And Beauty Business;1
+Health And Beauty Business;Nail Salon;2
+Narcotic Consideration;Adult Oriented Enumeration;1
+Adult Oriented Enumeration;Narcotic Consideration;2
+Neck;Physical Exam;1
+Physical Exam;Neck;2
+Nerve;Anatomical Structure;1
+Anatomical Structure;Nerve;2
+Neuro;Physical Exam;1
+Physical Exam;Neuro;2
+Neurologic;Medical Specialty;1
+Medical Specialty;Neurologic;2
+New Condition;Offer Item Condition;1
+Offer Item Condition;New Condition;2
+News Article;Article;1
+Article;News Article;2
+News Media Organization;Organization;1
+Organization;News Media Organization;2
+Newspaper;Periodical;1
+Periodical;Newspaper;2
+Night Club;Entertainment Business;1
+Entertainment Business;Night Club;2
+Noninvasive Procedure;Medical Procedure Type;1
+Medical Procedure Type;Noninvasive Procedure;2
+Nonprofit501a;US Nonprofit Type;1
+US Nonprofit Type;Nonprofit501a;2
+Nonprofit501c1;US Nonprofit Type;1
+US Nonprofit Type;Nonprofit501c1;2
+Nonprofit501c10;US Nonprofit Type;1
+US Nonprofit Type;Nonprofit501c10;2
+Nonprofit501c11;US Nonprofit Type;1
+US Nonprofit Type;Nonprofit501c11;2
+Nonprofit501c12;US Nonprofit Type;1
+US Nonprofit Type;Nonprofit501c12;2
+Nonprofit501c13;US Nonprofit Type;1
+US Nonprofit Type;Nonprofit501c13;2
+Nonprofit501c14;US Nonprofit Type;1
+US Nonprofit Type;Nonprofit501c14;2
+Nonprofit501c15;US Nonprofit Type;1
+US Nonprofit Type;Nonprofit501c15;2
+Nonprofit501c16;US Nonprofit Type;1
+US Nonprofit Type;Nonprofit501c16;2
+Nonprofit501c17;US Nonprofit Type;1
+US Nonprofit Type;Nonprofit501c17;2
+Nonprofit501c18;US Nonprofit Type;1
+US Nonprofit Type;Nonprofit501c18;2
+Nonprofit501c19;US Nonprofit Type;1
+US Nonprofit Type;Nonprofit501c19;2
+Nonprofit501c2;US Nonprofit Type;1
+US Nonprofit Type;Nonprofit501c2;2
+Nonprofit501c20;US Nonprofit Type;1
+US Nonprofit Type;Nonprofit501c20;2
+Nonprofit501c21;US Nonprofit Type;1
+US Nonprofit Type;Nonprofit501c21;2
+Nonprofit501c22;US Nonprofit Type;1
+US Nonprofit Type;Nonprofit501c22;2
+Nonprofit501c23;US Nonprofit Type;1
+US Nonprofit Type;Nonprofit501c23;2
+Nonprofit501c24;US Nonprofit Type;1
+US Nonprofit Type;Nonprofit501c24;2
+Nonprofit501c25;US Nonprofit Type;1
+US Nonprofit Type;Nonprofit501c25;2
+Nonprofit501c26;US Nonprofit Type;1
+US Nonprofit Type;Nonprofit501c26;2
+Nonprofit501c27;US Nonprofit Type;1
+US Nonprofit Type;Nonprofit501c27;2
+Nonprofit501c28;US Nonprofit Type;1
+US Nonprofit Type;Nonprofit501c28;2
+Nonprofit501c3;US Nonprofit Type;1
+US Nonprofit Type;Nonprofit501c3;2
+Nonprofit501c4;US Nonprofit Type;1
+US Nonprofit Type;Nonprofit501c4;2
+Nonprofit501c5;US Nonprofit Type;1
+US Nonprofit Type;Nonprofit501c5;2
+Nonprofit501c6;US Nonprofit Type;1
+US Nonprofit Type;Nonprofit501c6;2
+Nonprofit501c7;US Nonprofit Type;1
+US Nonprofit Type;Nonprofit501c7;2
+Nonprofit501c8;US Nonprofit Type;1
+US Nonprofit Type;Nonprofit501c8;2
+Nonprofit501c9;US Nonprofit Type;1
+US Nonprofit Type;Nonprofit501c9;2
+Nonprofit501d;US Nonprofit Type;1
+US Nonprofit Type;Nonprofit501d;2
+Nonprofit501e;US Nonprofit Type;1
+US Nonprofit Type;Nonprofit501e;2
+Nonprofit501f;US Nonprofit Type;1
+US Nonprofit Type;Nonprofit501f;2
+Nonprofit501k;US Nonprofit Type;1
+US Nonprofit Type;Nonprofit501k;2
+Nonprofit501n;US Nonprofit Type;1
+US Nonprofit Type;Nonprofit501n;2
+Nonprofit501q;US Nonprofit Type;1
+US Nonprofit Type;Nonprofit501q;2
+Nonprofit527;US Nonprofit Type;1
+US Nonprofit Type;Nonprofit527;2
+NonprofitANBI;NL Nonprofit Type;1
+NL Nonprofit Type;NonprofitANBI;2
+NonprofitSBBI;NL Nonprofit Type;1
+NL Nonprofit Type;NonprofitSBBI;2
+Nonprofit Type;Enumeration;1
+Enumeration;Nonprofit Type;2
+Nose;Physical Exam;1
+Physical Exam;Nose;2
+Not In Force;Legal Force Status;1
+Legal Force Status;Not In Force;2
+Not Yet Recruiting;Medical Study Status;1
+Medical Study Status;Not Yet Recruiting;2
+Notary;Legal Service;1
+Legal Service;Notary;2
+Note Digital Document;Digital Document;1
+Digital Document;Note Digital Document;2
+Number;;1
+;Number;2
+Nursing;Medical Business;1
+Medical Business;Nursing;2
+Nursing;Medical Specialty;1
+Medical Specialty;Nursing;2
+Nutrition Information;Structured Value;1
+Structured Value;Nutrition Information;2
+OTC;Drug Prescription Status;1
+Drug Prescription Status;OTC;2
+Observation;Intangible;1
+Intangible;Observation;2
+Observational;Medical Observational Study Design;1
+Medical Observational Study Design;Observational;2
+Obstetric;Medical Business;1
+Medical Business;Obstetric;2
+Obstetric;Medical Specialty;1
+Medical Specialty;Obstetric;2
+Occupation;Intangible;1
+Intangible;Occupation;2
+Occupational Activity;Physical Activity Category;1
+Physical Activity Category;Occupational Activity;2
+Occupational Experience Requirements;Intangible;1
+Intangible;Occupational Experience Requirements;2
+Occupational Therapy;Medical Therapy;1
+Medical Therapy;Occupational Therapy;2
+Ocean Body Of Water;Body Of Water;1
+Body Of Water;Ocean Body Of Water;2
+Offer;Intangible;1
+Intangible;Offer;2
+Offer Catalog;Item List;1
+Item List;Offer Catalog;2
+Offer For Lease;Offer;1
+Offer;Offer For Lease;2
+Offer For Purchase;Offer;1
+Offer;Offer For Purchase;2
+Offer Item Condition;Enumeration;1
+Enumeration;Offer Item Condition;2
+Offer Shipping Details;Structured Value;1
+Structured Value;Offer Shipping Details;2
+Office Equipment Store;Store;1
+Store;Office Equipment Store;2
+Official Legal Value;Legal Value Level;1
+Legal Value Level;Official Legal Value;2
+Offline Event Attendance Mode;Event Attendance Mode Enumeration;1
+Event Attendance Mode Enumeration;Offline Event Attendance Mode;2
+Offline Permanently;Game Server Status;1
+Game Server Status;Offline Permanently;2
+Offline Temporarily;Game Server Status;1
+Game Server Status;Offline Temporarily;2
+On Demand Event;Publication Event;1
+Publication Event;On Demand Event;2
+On Site Pickup;Delivery Method;1
+Delivery Method;On Site Pickup;2
+Oncologic;Medical Business;1
+Medical Business;Oncologic;2
+Oncologic;Medical Specialty;1
+Medical Specialty;Oncologic;2
+One Time Payments;Government Benefits Type;1
+Government Benefits Type;One Time Payments;2
+Online;Game Server Status;1
+Game Server Status;Online;2
+Online Business;Organization;1
+Organization;Online Business;2
+Online Event Attendance Mode;Event Attendance Mode Enumeration;1
+Event Attendance Mode Enumeration;Online Event Attendance Mode;2
+Online Full;Game Server Status;1
+Game Server Status;Online Full;2
+Online Only;Item Availability;1
+Item Availability;Online Only;2
+Online Store;Online Business;1
+Online Business;Online Store;2
+Open Trial;Medical Trial Design;1
+Medical Trial Design;Open Trial;2
+Opening Hours Specification;Structured Value;1
+Structured Value;Opening Hours Specification;2
+Opinion News Article;News Article;1
+News Article;Opinion News Article;2
+Optician;Medical Business;1
+Medical Business;Optician;2
+Optometric;Medical Business;1
+Medical Business;Optometric;2
+Optometric;Medical Specialty;1
+Medical Specialty;Optometric;2
+Order;Intangible;1
+Intangible;Order;2
+Order Action;Trade Action;1
+Trade Action;Order Action;2
+Order Cancelled;Order Status;1
+Order Status;Order Cancelled;2
+Order Delivered;Order Status;1
+Order Status;Order Delivered;2
+Order In Transit;Order Status;1
+Order Status;Order In Transit;2
+Order Item;Intangible;1
+Intangible;Order Item;2
+Order Payment Due;Order Status;1
+Order Status;Order Payment Due;2
+Order Pickup Available;Order Status;1
+Order Status;Order Pickup Available;2
+Order Problem;Order Status;1
+Order Status;Order Problem;2
+Order Processing;Order Status;1
+Order Status;Order Processing;2
+Order Returned;Order Status;1
+Order Status;Order Returned;2
+Order Status;Status Enumeration;1
+Status Enumeration;Order Status;2
+Organization;Thing;1
+Thing;Organization;2
+Organization Role;Role;1
+Role;Organization Role;2
+Organize Action;Action;1
+Action;Organize Action;2
+Original Media Content;Media Manipulation Rating Enumeration;1
+Media Manipulation Rating Enumeration;Original Media Content;2
+Original Shipping Fees;Return Fees Enumeration;1
+Return Fees Enumeration;Original Shipping Fees;2
+Osteopathic;Medicine System;1
+Medicine System;Osteopathic;2
+Otolaryngologic;Medical Business;1
+Medical Business;Otolaryngologic;2
+Otolaryngologic;Medical Specialty;1
+Medical Specialty;Otolaryngologic;2
+Out Of Stock;Item Availability;1
+Item Availability;Out Of Stock;2
+Outlet Store;Store;1
+Store;Outlet Store;2
+Overview Health Aspect;Health Aspect Enumeration;1
+Health Aspect Enumeration;Overview Health Aspect;2
+Ownership Info;Structured Value;1
+Structured Value;Ownership Info;2
+PET;Medical Imaging Technique;1
+Medical Imaging Technique;PET;2
+Paid Leave;Government Benefits Type;1
+Government Benefits Type;Paid Leave;2
+Paint Action;Create Action;1
+Create Action;Paint Action;2
+Painting;Creative Work;1
+Creative Work;Painting;2
+Palliative Procedure;Medical Procedure;1
+Medical Procedure;Palliative Procedure;2
+Palliative Procedure;Medical Therapy;1
+Medical Therapy;Palliative Procedure;2
+Paperback;Book Format Type;1
+Book Format Type;Paperback;2
+Parcel Delivery;Intangible;1
+Intangible;Parcel Delivery;2
+Parcel Service;Delivery Method;1
+Delivery Method;Parcel Service;2
+Parent Audience;People Audience;1
+People Audience;Parent Audience;2
+Parental Support;Government Benefits Type;1
+Government Benefits Type;Parental Support;2
+Park;Civic Structure;1
+Civic Structure;Park;2
+Parking Facility;Civic Structure;1
+Civic Structure;Parking Facility;2
+Parking Map;Map Category Type;1
+Map Category Type;Parking Map;2
+Partially In Force;Legal Force Status;1
+Legal Force Status;Partially In Force;2
+Pathology;Medical Specialty;1
+Medical Specialty;Pathology;2
+Pathology Test;Medical Test;1
+Medical Test;Pathology Test;2
+Patient;Medical Audience;1
+Medical Audience;Patient;2
+Patient;Person;1
+Person;Patient;2
+Patient Experience Health Aspect;Health Aspect Enumeration;1
+Health Aspect Enumeration;Patient Experience Health Aspect;2
+Pawn Shop;Store;1
+Store;Pawn Shop;2
+Pay Action;Trade Action;1
+Trade Action;Pay Action;2
+Payment Automatically Applied;Payment Status Type;1
+Payment Status Type;Payment Automatically Applied;2
+Payment Card;Financial Product;1
+Financial Product;Payment Card;2
+Payment Card;Payment Method;1
+Payment Method;Payment Card;2
+Payment Charge Specification;Price Specification;1
+Price Specification;Payment Charge Specification;2
+Payment Complete;Payment Status Type;1
+Payment Status Type;Payment Complete;2
+Payment Declined;Payment Status Type;1
+Payment Status Type;Payment Declined;2
+Payment Due;Payment Status Type;1
+Payment Status Type;Payment Due;2
+Payment Method;Enumeration;1
+Enumeration;Payment Method;2
+Payment Past Due;Payment Status Type;1
+Payment Status Type;Payment Past Due;2
+Payment Service;Financial Product;1
+Financial Product;Payment Service;2
+Payment Status Type;Status Enumeration;1
+Status Enumeration;Payment Status Type;2
+Pediatric;Medical Business;1
+Medical Business;Pediatric;2
+Pediatric;Medical Specialty;1
+Medical Specialty;Pediatric;2
+People Audience;Audience;1
+Audience;People Audience;2
+Percutaneous Procedure;Medical Procedure Type;1
+Medical Procedure Type;Percutaneous Procedure;2
+Perform Action;Play Action;1
+Play Action;Perform Action;2
+Performance Role;Role;1
+Role;Performance Role;2
+Performing Arts Theater;Civic Structure;1
+Civic Structure;Performing Arts Theater;2
+Performing Group;Organization;1
+Organization;Performing Group;2
+Periodical;Creative Work Series;1
+Creative Work Series;Periodical;2
+Permit;Intangible;1
+Intangible;Permit;2
+Person;Thing;1
+Thing;Person;2
+Pet Store;Store;1
+Store;Pet Store;2
+Pharmacy;Medical Business;1
+Medical Business;Pharmacy;2
+Pharmacy;Medical Organization;1
+Medical Organization;Pharmacy;2
+Pharmacy Specialty;Medical Specialty;1
+Medical Specialty;Pharmacy Specialty;2
+Photograph;Creative Work;1
+Creative Work;Photograph;2
+Photograph Action;Create Action;1
+Create Action;Photograph Action;2
+Physical Activity;Lifestyle Modification;1
+Lifestyle Modification;Physical Activity;2
+Physical Activity Category;Enumeration;1
+Enumeration;Physical Activity Category;2
+Physical Exam;Medical Enumeration;1
+Medical Enumeration;Physical Exam;2
+Physical Exam;Medical Procedure;1
+Medical Procedure;Physical Exam;2
+Physical Therapy;Medical Therapy;1
+Medical Therapy;Physical Therapy;2
+Physician;Medical Business;1
+Medical Business;Physician;2
+Physician;Medical Organization;1
+Medical Organization;Physician;2
+Physiotherapy;Medical Business;1
+Medical Business;Physiotherapy;2
+Physiotherapy;Medical Specialty;1
+Medical Specialty;Physiotherapy;2
+Place;Thing;1
+Thing;Place;2
+Place Of Worship;Civic Structure;1
+Civic Structure;Place Of Worship;2
+Placebo Controlled Trial;Medical Trial Design;1
+Medical Trial Design;Placebo Controlled Trial;2
+Plan Action;Organize Action;1
+Organize Action;Plan Action;2
+Plastic Surgery;Medical Business;1
+Medical Business;Plastic Surgery;2
+Plastic Surgery;Medical Specialty;1
+Medical Specialty;Plastic Surgery;2
+Play;Creative Work;1
+Creative Work;Play;2
+Play Action;Action;1
+Action;Play Action;2
+Play Game Action;Consume Action;1
+Consume Action;Play Game Action;2
+Playground;Civic Structure;1
+Civic Structure;Playground;2
+Plumber;Home And Construction Business;1
+Home And Construction Business;Plumber;2
+Podcast Episode;Episode;1
+Episode;Podcast Episode;2
+Podcast Season;Creative Work Season;1
+Creative Work Season;Podcast Season;2
+Podcast Series;Creative Work Series;1
+Creative Work Series;Podcast Series;2
+Podiatric;Medical Business;1
+Medical Business;Podiatric;2
+Podiatric;Medical Specialty;1
+Medical Specialty;Podiatric;2
+Police Station;Civic Structure;1
+Civic Structure;Police Station;2
+Police Station;Emergency Service;1
+Emergency Service;Police Station;2
+Pond;Body Of Water;1
+Body Of Water;Pond;2
+Post Office;Government Office;1
+Government Office;Post Office;2
+Postal Address;Contact Point;1
+Contact Point;Postal Address;2
+Postal Code Range Specification;Structured Value;1
+Structured Value;Postal Code Range Specification;2
+Poster;Creative Work;1
+Creative Work;Poster;2
+Potential Action Status;Action Status Type;1
+Action Status Type;Potential Action Status;2
+Pre Order;Item Availability;1
+Item Availability;Pre Order;2
+Pre Order Action;Trade Action;1
+Trade Action;Pre Order Action;2
+Pre Sale;Item Availability;1
+Item Availability;Pre Sale;2
+Pregnancy Health Aspect;Health Aspect Enumeration;1
+Health Aspect Enumeration;Pregnancy Health Aspect;2
+Prepend Action;Insert Action;1
+Insert Action;Prepend Action;2
+Preschool;Educational Organization;1
+Educational Organization;Preschool;2
+Prescription Only;Drug Prescription Status;1
+Drug Prescription Status;Prescription Only;2
+Presentation Digital Document;Digital Document;1
+Digital Document;Presentation Digital Document;2
+Prevention Health Aspect;Health Aspect Enumeration;1
+Health Aspect Enumeration;Prevention Health Aspect;2
+Prevention Indication;Medical Indication;1
+Medical Indication;Prevention Indication;2
+Price Component Type Enumeration;Enumeration;1
+Enumeration;Price Component Type Enumeration;2
+Price Specification;Structured Value;1
+Structured Value;Price Specification;2
+Price Type Enumeration;Enumeration;1
+Enumeration;Price Type Enumeration;2
+Primary Care;Medical Business;1
+Medical Business;Primary Care;2
+Primary Care;Medical Specialty;1
+Medical Specialty;Primary Care;2
+Prion;Infectious Agent Class;1
+Infectious Agent Class;Prion;2
+Product;Thing;1
+Thing;Product;2
+Product Collection;Collection;1
+Collection;Product Collection;2
+Product Collection;Product;1
+Product;Product Collection;2
+Product Group;Product;1
+Product;Product Group;2
+Product Model;Product;1
+Product;Product Model;2
+Professional Service;Local Business;1
+Local Business;Professional Service;2
+Profile Page;Web Page;1
+Web Page;Profile Page;2
+Prognosis Health Aspect;Health Aspect Enumeration;1
+Health Aspect Enumeration;Prognosis Health Aspect;2
+Program Membership;Intangible;1
+Intangible;Program Membership;2
+Project;Organization;1
+Organization;Project;2
+Pronounceable Text;Text;1
+Text;Pronounceable Text;2
+Property;Intangible;1
+Intangible;Property;2
+Property Value;Structured Value;1
+Structured Value;Property Value;2
+Property Value Specification;Intangible;1
+Intangible;Property Value Specification;2
+Protein;Bio Chem Entity;1
+Bio Chem Entity;Protein;2
+Protozoa;Infectious Agent Class;1
+Infectious Agent Class;Protozoa;2
+Psychiatric;Medical Business;1
+Medical Business;Psychiatric;2
+Psychiatric;Medical Specialty;1
+Medical Specialty;Psychiatric;2
+Psychological Treatment;Therapeutic Procedure;1
+Therapeutic Procedure;Psychological Treatment;2
+Public Health;Medical Business;1
+Medical Business;Public Health;2
+Public Health;Medical Specialty;1
+Medical Specialty;Public Health;2
+Public Holidays;Day Of Week;1
+Day Of Week;Public Holidays;2
+Public Swimming Pool;Sports Activity Location;1
+Sports Activity Location;Public Swimming Pool;2
+Public Toilet;Civic Structure;1
+Civic Structure;Public Toilet;2
+Publication Event;Event;1
+Event;Publication Event;2
+Publication Issue;Creative Work;1
+Creative Work;Publication Issue;2
+Publication Volume;Creative Work;1
+Creative Work;Publication Volume;2
+Pulmonary;Medical Specialty;1
+Medical Specialty;Pulmonary;2
+QA Page;Web Page;1
+Web Page;QA Page;2
+Qualitative Value;Enumeration;1
+Enumeration;Qualitative Value;2
+Quantitative Value;Structured Value;1
+Structured Value;Quantitative Value;2
+Quantitative Value Distribution;Structured Value;1
+Structured Value;Quantitative Value Distribution;2
+Quantity;Intangible;1
+Intangible;Quantity;2
+Question;Comment;1
+Comment;Question;2
+Quiz;Learning Resource;1
+Learning Resource;Quiz;2
+Quotation;Creative Work;1
+Creative Work;Quotation;2
+Quote Action;Trade Action;1
+Trade Action;Quote Action;2
+RV Park;Civic Structure;1
+Civic Structure;RV Park;2
+Radiation Therapy;Medical Therapy;1
+Medical Therapy;Radiation Therapy;2
+Radio Broadcast Service;Broadcast Service;1
+Broadcast Service;Radio Broadcast Service;2
+Radio Channel;Broadcast Channel;1
+Broadcast Channel;Radio Channel;2
+Radio Clip;Clip;1
+Clip;Radio Clip;2
+Radio Episode;Episode;1
+Episode;Radio Episode;2
+Radio Season;Creative Work Season;1
+Creative Work Season;Radio Season;2
+Radio Series;Creative Work Series;1
+Creative Work Series;Radio Series;2
+Radio Station;Local Business;1
+Local Business;Radio Station;2
+Radiography;Medical Imaging Technique;1
+Medical Imaging Technique;Radiography;2
+Randomized Trial;Medical Trial Design;1
+Medical Trial Design;Randomized Trial;2
+Rating;Intangible;1
+Intangible;Rating;2
+React Action;Assess Action;1
+Assess Action;React Action;2
+Read Action;Consume Action;1
+Consume Action;Read Action;2
+Read Permission;Digital Document Permission Type;1
+Digital Document Permission Type;Read Permission;2
+Real Estate Agent;Local Business;1
+Local Business;Real Estate Agent;2
+Real Estate Listing;Web Page;1
+Web Page;Real Estate Listing;2
+Rear Wheel Drive Configuration;Drive Wheel Configuration Value;1
+Drive Wheel Configuration Value;Rear Wheel Drive Configuration;2
+Receive Action;Transfer Action;1
+Transfer Action;Receive Action;2
+Recipe;How To;1
+How To;Recipe;2
+Recommendation;Review;1
+Review;Recommendation;2
+Recommended Dose Schedule;Dose Schedule;1
+Dose Schedule;Recommended Dose Schedule;2
+Recruiting;Medical Study Status;1
+Medical Study Status;Recruiting;2
+Recycling Center;Local Business;1
+Local Business;Recycling Center;2
+Reduced Relevance For Children Consideration;Adult Oriented Enumeration;1
+Adult Oriented Enumeration;Reduced Relevance For Children Consideration;2
+Refund Type Enumeration;Enumeration;1
+Enumeration;Refund Type Enumeration;2
+Refurbished Condition;Offer Item Condition;1
+Offer Item Condition;Refurbished Condition;2
+Register Action;Interact Action;1
+Interact Action;Register Action;2
+Registry;Medical Observational Study Design;1
+Medical Observational Study Design;Registry;2
+Reimbursement Cap;Drug Cost Category;1
+Drug Cost Category;Reimbursement Cap;2
+Reject Action;Allocate Action;1
+Allocate Action;Reject Action;2
+Related Topics Health Aspect;Health Aspect Enumeration;1
+Health Aspect Enumeration;Related Topics Health Aspect;2
+Remix Album;Music Album Production Type;1
+Music Album Production Type;Remix Album;2
+Renal;Medical Specialty;1
+Medical Specialty;Renal;2
+Rent Action;Trade Action;1
+Trade Action;Rent Action;2
+Rental Car Reservation;Reservation;1
+Reservation;Rental Car Reservation;2
+Rental Vehicle Usage;Car Usage Type;1
+Car Usage Type;Rental Vehicle Usage;2
+Repayment Specification;Structured Value;1
+Structured Value;Repayment Specification;2
+Replace Action;Update Action;1
+Update Action;Replace Action;2
+Reply Action;Communicate Action;1
+Communicate Action;Reply Action;2
+Report;Article;1
+Article;Report;2
+Reportage News Article;News Article;1
+News Article;Reportage News Article;2
+Reported Dose Schedule;Dose Schedule;1
+Dose Schedule;Reported Dose Schedule;2
+Research Organization;Organization;1
+Organization;Research Organization;2
+Research Project;Project;1
+Project;Research Project;2
+Researcher;Audience;1
+Audience;Researcher;2
+Reservation;Intangible;1
+Intangible;Reservation;2
+Reservation Cancelled;Reservation Status Type;1
+Reservation Status Type;Reservation Cancelled;2
+Reservation Confirmed;Reservation Status Type;1
+Reservation Status Type;Reservation Confirmed;2
+Reservation Hold;Reservation Status Type;1
+Reservation Status Type;Reservation Hold;2
+Reservation Package;Reservation;1
+Reservation;Reservation Package;2
+Reservation Pending;Reservation Status Type;1
+Reservation Status Type;Reservation Pending;2
+Reservation Status Type;Status Enumeration;1
+Status Enumeration;Reservation Status Type;2
+Reserve Action;Plan Action;1
+Plan Action;Reserve Action;2
+Reservoir;Body Of Water;1
+Body Of Water;Reservoir;2
+Residence;Place;1
+Place;Residence;2
+Resort;Lodging Business;1
+Lodging Business;Resort;2
+Respiratory Therapy;Medical Therapy;1
+Medical Therapy;Respiratory Therapy;2
+Respiratory Therapy;Medical Specialty;1
+Medical Specialty;Respiratory Therapy;2
+Restaurant;Food Establishment;1
+Food Establishment;Restaurant;2
+Restocking Fees;Return Fees Enumeration;1
+Return Fees Enumeration;Restocking Fees;2
+Restricted Diet;Enumeration;1
+Enumeration;Restricted Diet;2
+Results Available;Medical Study Status;1
+Medical Study Status;Results Available;2
+Results Not Available;Medical Study Status;1
+Medical Study Status;Results Not Available;2
+Resume Action;Control Action;1
+Control Action;Resume Action;2
+Retail;Drug Cost Category;1
+Drug Cost Category;Retail;2
+Return Action;Transfer Action;1
+Transfer Action;Return Action;2
+Return At Kiosk;Return Method Enumeration;1
+Return Method Enumeration;Return At Kiosk;2
+Return By Mail;Return Method Enumeration;1
+Return Method Enumeration;Return By Mail;2
+Return Fees Customer Responsibility;Return Fees Enumeration;1
+Return Fees Enumeration;Return Fees Customer Responsibility;2
+Return Fees Enumeration;Enumeration;1
+Enumeration;Return Fees Enumeration;2
+Return In Store;Return Method Enumeration;1
+Return Method Enumeration;Return In Store;2
+Return Label Customer Responsibility;Return Label Source Enumeration;1
+Return Label Source Enumeration;Return Label Customer Responsibility;2
+Return Label Download And Print;Return Label Source Enumeration;1
+Return Label Source Enumeration;Return Label Download And Print;2
+Return Label In Box;Return Label Source Enumeration;1
+Return Label Source Enumeration;Return Label In Box;2
+Return Label Source Enumeration;Enumeration;1
+Enumeration;Return Label Source Enumeration;2
+Return Method Enumeration;Enumeration;1
+Enumeration;Return Method Enumeration;2
+Return Shipping Fees;Return Fees Enumeration;1
+Return Fees Enumeration;Return Shipping Fees;2
+Review;Creative Work;1
+Creative Work;Review;2
+Review Action;Assess Action;1
+Assess Action;Review Action;2
+Review News Article;Critic Review;1
+Critic Review;Review News Article;2
+Review News Article;News Article;1
+News Article;Review News Article;2
+Rheumatologic;Medical Specialty;1
+Medical Specialty;Rheumatologic;2
+Right Hand Driving;Steering Position Value;1
+Steering Position Value;Right Hand Driving;2
+Risks Or Complications Health Aspect;Health Aspect Enumeration;1
+Health Aspect Enumeration;Risks Or Complications Health Aspect;2
+River Body Of Water;Body Of Water;1
+Body Of Water;River Body Of Water;2
+Role;Intangible;1
+Intangible;Role;2
+Roofing Contractor;Home And Construction Business;1
+Home And Construction Business;Roofing Contractor;2
+Room;Accommodation;1
+Accommodation;Room;2
+Rsvp Action;Inform Action;1
+Inform Action;Rsvp Action;2
+Rsvp Response Maybe;Rsvp Response Type;1
+Rsvp Response Type;Rsvp Response Maybe;2
+Rsvp Response No;Rsvp Response Type;1
+Rsvp Response Type;Rsvp Response No;2
+Rsvp Response Type;Enumeration;1
+Enumeration;Rsvp Response Type;2
+Rsvp Response Yes;Rsvp Response Type;1
+Rsvp Response Type;Rsvp Response Yes;2
+SRP;Price Type Enumeration;1
+Price Type Enumeration;SRP;2
+Safety Health Aspect;Health Aspect Enumeration;1
+Health Aspect Enumeration;Safety Health Aspect;2
+Sale Event;Event;1
+Event;Sale Event;2
+Sale Price;Price Type Enumeration;1
+Price Type Enumeration;Sale Price;2
+Satire Or Parody Content;Media Manipulation Rating Enumeration;1
+Media Manipulation Rating Enumeration;Satire Or Parody Content;2
+Satirical Article;Article;1
+Article;Satirical Article;2
+Saturday;Day Of Week;1
+Day Of Week;Saturday;2
+Schedule;Intangible;1
+Intangible;Schedule;2
+Schedule Action;Plan Action;1
+Plan Action;Schedule Action;2
+Scholarly Article;Article;1
+Article;Scholarly Article;2
+School;Educational Organization;1
+Educational Organization;School;2
+School District;Administrative Area;1
+Administrative Area;School District;2
+Screening Event;Event;1
+Event;Screening Event;2
+Screening Health Aspect;Health Aspect Enumeration;1
+Health Aspect Enumeration;Screening Health Aspect;2
+Sculpture;Creative Work;1
+Creative Work;Sculpture;2
+Sea Body Of Water;Body Of Water;1
+Body Of Water;Sea Body Of Water;2
+Search Action;Action;1
+Action;Search Action;2
+Search Rescue Organization;Organization;1
+Organization;Search Rescue Organization;2
+Search Results Page;Web Page;1
+Web Page;Search Results Page;2
+Season;Creative Work;1
+Creative Work;Season;2
+Seat;Intangible;1
+Intangible;Seat;2
+Seating Map;Map Category Type;1
+Map Category Type;Seating Map;2
+See Doctor Health Aspect;Health Aspect Enumeration;1
+Health Aspect Enumeration;See Doctor Health Aspect;2
+Seek To Action;Action;1
+Action;Seek To Action;2
+Self Care Health Aspect;Health Aspect Enumeration;1
+Health Aspect Enumeration;Self Care Health Aspect;2
+Self Storage;Local Business;1
+Local Business;Self Storage;2
+Sell Action;Trade Action;1
+Trade Action;Sell Action;2
+Send Action;Transfer Action;1
+Transfer Action;Send Action;2
+Series;Intangible;1
+Intangible;Series;2
+Service;Intangible;1
+Intangible;Service;2
+Service Channel;Intangible;1
+Intangible;Service Channel;2
+Sexual Content Consideration;Adult Oriented Enumeration;1
+Adult Oriented Enumeration;Sexual Content Consideration;2
+Share Action;Communicate Action;1
+Communicate Action;Share Action;2
+Sheet Music;Creative Work;1
+Creative Work;Sheet Music;2
+Shipping Delivery Time;Structured Value;1
+Structured Value;Shipping Delivery Time;2
+Shipping Rate Settings;Structured Value;1
+Structured Value;Shipping Rate Settings;2
+Shoe Store;Store;1
+Store;Shoe Store;2
+Shopping Center;Local Business;1
+Local Business;Shopping Center;2
+Short Story;Creative Work;1
+Creative Work;Short Story;2
+Side Effects Health Aspect;Health Aspect Enumeration;1
+Health Aspect Enumeration;Side Effects Health Aspect;2
+Single Blinded Trial;Medical Trial Design;1
+Medical Trial Design;Single Blinded Trial;2
+Single Center Trial;Medical Trial Design;1
+Medical Trial Design;Single Center Trial;2
+Single Family Residence;House;1
+House;Single Family Residence;2
+Single Player;Game Play Mode;1
+Game Play Mode;Single Player;2
+Single Release;Music Album Release Type;1
+Music Album Release Type;Single Release;2
+Site Navigation Element;Web Page Element;1
+Web Page Element;Site Navigation Element;2
+Size Group Enumeration;Enumeration;1
+Enumeration;Size Group Enumeration;2
+Size Specification;Qualitative Value;1
+Qualitative Value;Size Specification;2
+Size System Enumeration;Enumeration;1
+Enumeration;Size System Enumeration;2
+Size System Imperial;Size System Enumeration;1
+Size System Enumeration;Size System Imperial;2
+Size System Metric;Size System Enumeration;1
+Size System Enumeration;Size System Metric;2
+Ski Resort;Resort;1
+Resort;Ski Resort;2
+Ski Resort;Sports Activity Location;1
+Sports Activity Location;Ski Resort;2
+Skin;Physical Exam;1
+Physical Exam;Skin;2
+Social Event;Event;1
+Event;Social Event;2
+Social Media Posting;Article;1
+Article;Social Media Posting;2
+Software Application;Creative Work;1
+Creative Work;Software Application;2
+Software Source Code;Creative Work;1
+Creative Work;Software Source Code;2
+Sold Out;Item Availability;1
+Item Availability;Sold Out;2
+Solve Math Action;Action;1
+Action;Solve Math Action;2
+Some Products;Product;1
+Product;Some Products;2
+Soundtrack Album;Music Album Production Type;1
+Music Album Production Type;Soundtrack Album;2
+Speakable Specification;Intangible;1
+Intangible;Speakable Specification;2
+Special Announcement;Creative Work;1
+Creative Work;Special Announcement;2
+Specialty;Enumeration;1
+Enumeration;Specialty;2
+Speech Pathology;Medical Specialty;1
+Medical Specialty;Speech Pathology;2
+Spoken Word Album;Music Album Production Type;1
+Music Album Production Type;Spoken Word Album;2
+Sporting Goods Store;Store;1
+Store;Sporting Goods Store;2
+Sports Activity Location;Local Business;1
+Local Business;Sports Activity Location;2
+Sports Club;Sports Activity Location;1
+Sports Activity Location;Sports Club;2
+Sports Event;Event;1
+Event;Sports Event;2
+Sports Organization;Organization;1
+Organization;Sports Organization;2
+Sports Team;Sports Organization;1
+Sports Organization;Sports Team;2
+Spreadsheet Digital Document;Digital Document;1
+Digital Document;Spreadsheet Digital Document;2
+Stadium Or Arena;Civic Structure;1
+Civic Structure;Stadium Or Arena;2
+Stadium Or Arena;Sports Activity Location;1
+Sports Activity Location;Stadium Or Arena;2
+Staged Content;Media Manipulation Rating Enumeration;1
+Media Manipulation Rating Enumeration;Staged Content;2
+Stages Health Aspect;Health Aspect Enumeration;1
+Health Aspect Enumeration;Stages Health Aspect;2
+State;Administrative Area;1
+Administrative Area;State;2
+Statement;Creative Work;1
+Creative Work;Statement;2
+Statistical Population;Intangible;1
+Intangible;Statistical Population;2
+Status Enumeration;Enumeration;1
+Enumeration;Status Enumeration;2
+Steering Position Value;Qualitative Value;1
+Qualitative Value;Steering Position Value;2
+Store;Local Business;1
+Local Business;Store;2
+Store Credit Refund;Refund Type Enumeration;1
+Refund Type Enumeration;Store Credit Refund;2
+Strength Training;Physical Activity Category;1
+Physical Activity Category;Strength Training;2
+Structured Value;Intangible;1
+Intangible;Structured Value;2
+Studio Album;Music Album Production Type;1
+Music Album Production Type;Studio Album;2
+Subscribe Action;Interact Action;1
+Interact Action;Subscribe Action;2
+Subscription;Price Component Type Enumeration;1
+Price Component Type Enumeration;Subscription;2
+Substance;Medical Entity;1
+Medical Entity;Substance;2
+Subway Station;Civic Structure;1
+Civic Structure;Subway Station;2
+Suite;Accommodation;1
+Accommodation;Suite;2
+Sunday;Day Of Week;1
+Day Of Week;Sunday;2
+Superficial Anatomy;Medical Entity;1
+Medical Entity;Superficial Anatomy;2
+Surgical;Medical Specialty;1
+Medical Specialty;Surgical;2
+Surgical Procedure;Medical Procedure;1
+Medical Procedure;Surgical Procedure;2
+Suspend Action;Control Action;1
+Control Action;Suspend Action;2
+Suspended;Medical Study Status;1
+Medical Study Status;Suspended;2
+Symptoms Health Aspect;Health Aspect Enumeration;1
+Health Aspect Enumeration;Symptoms Health Aspect;2
+Synagogue;Place Of Worship;1
+Place Of Worship;Synagogue;2
+TV Clip;Clip;1
+Clip;TV Clip;2
+TV Episode;Episode;1
+Episode;TV Episode;2
+TV Season;Creative Work;1
+Creative Work;TV Season;2
+TV Season;Creative Work Season;1
+Creative Work Season;TV Season;2
+TV Series;Creative Work;1
+Creative Work;TV Series;2
+TV Series;Creative Work Series;1
+Creative Work Series;TV Series;2
+Table;Web Page Element;1
+Web Page Element;Table;2
+Take Action;Transfer Action;1
+Transfer Action;Take Action;2
+Tattoo Parlor;Health And Beauty Business;1
+Health And Beauty Business;Tattoo Parlor;2
+Taxi;Service;1
+Service;Taxi;2
+Taxi Reservation;Reservation;1
+Reservation;Taxi Reservation;2
+Taxi Service;Service;1
+Service;Taxi Service;2
+Taxi Stand;Civic Structure;1
+Civic Structure;Taxi Stand;2
+Taxi Vehicle Usage;Car Usage Type;1
+Car Usage Type;Taxi Vehicle Usage;2
+Taxon;Thing;1
+Thing;Taxon;2
+Tech Article;Article;1
+Article;Tech Article;2
+Television Channel;Broadcast Channel;1
+Broadcast Channel;Television Channel;2
+Television Station;Local Business;1
+Local Business;Television Station;2
+Tennis Complex;Sports Activity Location;1
+Sports Activity Location;Tennis Complex;2
+Terminated;Medical Study Status;1
+Medical Study Status;Terminated;2
+Text;;1
+;Text;2
+Text Digital Document;Digital Document;1
+Digital Document;Text Digital Document;2
+Theater Event;Event;1
+Event;Theater Event;2
+Theater Group;Performing Group;1
+Performing Group;Theater Group;2
+Therapeutic;Medical Device Purpose;1
+Medical Device Purpose;Therapeutic;2
+Therapeutic Procedure;Medical Procedure;1
+Medical Procedure;Therapeutic Procedure;2
+Thesis;Creative Work;1
+Creative Work;Thesis;2
+Thing;;1
+;Thing;2
+Throat;Physical Exam;1
+Physical Exam;Throat;2
+Thursday;Day Of Week;1
+Day Of Week;Thursday;2
+Ticket;Intangible;1
+Intangible;Ticket;2
+Tie Action;Achieve Action;1
+Achieve Action;Tie Action;2
+Time;;1
+;Time;2
+Tip Action;Trade Action;1
+Trade Action;Tip Action;2
+Tire Shop;Store;1
+Store;Tire Shop;2
+Tobacco Nicotine Consideration;Adult Oriented Enumeration;1
+Adult Oriented Enumeration;Tobacco Nicotine Consideration;2
+Toll Free;Contact Point Option;1
+Contact Point Option;Toll Free;2
+Tourist Attraction;Place;1
+Place;Tourist Attraction;2
+Tourist Destination;Place;1
+Place;Tourist Destination;2
+Tourist Information Center;Local Business;1
+Local Business;Tourist Information Center;2
+Tourist Trip;Trip;1
+Trip;Tourist Trip;2
+Toxicologic;Medical Specialty;1
+Medical Specialty;Toxicologic;2
+Toy Store;Store;1
+Store;Toy Store;2
+Track Action;Find Action;1
+Find Action;Track Action;2
+Trade Action;Action;1
+Action;Trade Action;2
+Traditional Chinese;Medicine System;1
+Medicine System;Traditional Chinese;2
+Train Reservation;Reservation;1
+Reservation;Train Reservation;2
+Train Station;Civic Structure;1
+Civic Structure;Train Station;2
+Train Trip;Trip;1
+Trip;Train Trip;2
+Transfer Action;Action;1
+Action;Transfer Action;2
+Transformed Content;Media Manipulation Rating Enumeration;1
+Media Manipulation Rating Enumeration;Transformed Content;2
+Transit Map;Map Category Type;1
+Map Category Type;Transit Map;2
+Travel Action;Move Action;1
+Move Action;Travel Action;2
+Travel Agency;Local Business;1
+Local Business;Travel Agency;2
+Treatment Indication;Medical Indication;1
+Medical Indication;Treatment Indication;2
+Treatments Health Aspect;Health Aspect Enumeration;1
+Health Aspect Enumeration;Treatments Health Aspect;2
+Trip;Intangible;1
+Intangible;Trip;2
+Triple Blinded Trial;Medical Trial Design;1
+Medical Trial Design;Triple Blinded Trial;2
+TRUE;;1
+;TRUE;2
+Tuesday;Day Of Week;1
+Day Of Week;Tuesday;2
+Type And Quantity Node;Structured Value;1
+Structured Value;Type And Quantity Node;2
+Types Health Aspect;Health Aspect Enumeration;1
+Health Aspect Enumeration;Types Health Aspect;2
+UK Nonprofit Type;Nonprofit Type;1
+Nonprofit Type;UK Nonprofit Type;2
+UK Trust;UK Nonprofit Type;1
+UK Nonprofit Type;UK Trust;2
+URL;Text;1
+Text;URL;2
+US Nonprofit Type;Nonprofit Type;1
+Nonprofit Type;US Nonprofit Type;2
+Ultrasound;Medical Imaging Technique;1
+Medical Imaging Technique;Ultrasound;2
+Un Register Action;Interact Action;1
+Interact Action;Un Register Action;2
+Unclassified Adult Consideration;Adult Oriented Enumeration;1
+Adult Oriented Enumeration;Unclassified Adult Consideration;2
+Unemployment Support;Government Benefits Type;1
+Government Benefits Type;Unemployment Support;2
+Unincorporated Association Charity;UK Nonprofit Type;1
+UK Nonprofit Type;Unincorporated Association Charity;2
+Unit Price Specification;Price Specification;1
+Price Specification;Unit Price Specification;2
+Unofficial Legal Value;Legal Value Level;1
+Legal Value Level;Unofficial Legal Value;2
+Update Action;Action;1
+Action;Update Action;2
+Urologic;Medical Specialty;1
+Medical Specialty;Urologic;2
+Usage Or Schedule Health Aspect;Health Aspect Enumeration;1
+Health Aspect Enumeration;Usage Or Schedule Health Aspect;2
+Use Action;Consume Action;1
+Consume Action;Use Action;2
+Used Condition;Offer Item Condition;1
+Offer Item Condition;Used Condition;2
+User Blocks;User Interaction;1
+User Interaction;User Blocks;2
+User Checkins;User Interaction;1
+User Interaction;User Checkins;2
+User Comments;User Interaction;1
+User Interaction;User Comments;2
+User Downloads;User Interaction;1
+User Interaction;User Downloads;2
+User Interaction;Event;1
+Event;User Interaction;2
+User Likes;User Interaction;1
+User Interaction;User Likes;2
+User Page Visits;User Interaction;1
+User Interaction;User Page Visits;2
+User Plays;User Interaction;1
+User Interaction;User Plays;2
+User Plus Ones;User Interaction;1
+User Interaction;User Plus Ones;2
+User Review;Review;1
+Review;User Review;2
+User Tweets;User Interaction;1
+User Interaction;User Tweets;2
+Vegan Diet;Restricted Diet;1
+Restricted Diet;Vegan Diet;2
+Vegetarian Diet;Restricted Diet;1
+Restricted Diet;Vegetarian Diet;2
+Vehicle;Product;1
+Product;Vehicle;2
+Vein;Vessel;1
+Vessel;Vein;2
+Venue Map;Map Category Type;1
+Map Category Type;Venue Map;2
+Vessel;Anatomical Structure;1
+Anatomical Structure;Vessel;2
+Veterinary Care;Medical Organization;1
+Medical Organization;Veterinary Care;2
+Video Gallery;Media Gallery;1
+Media Gallery;Video Gallery;2
+Video Game;Game;1
+Game;Video Game;2
+Video Game;Software Application;1
+Software Application;Video Game;2
+Video Game Clip;Clip;1
+Clip;Video Game Clip;2
+Video Game Series;Creative Work Series;1
+Creative Work Series;Video Game Series;2
+Video Object;Media Object;1
+Media Object;Video Object;2
+Video Object Snapshot;Video Object;1
+Video Object;Video Object Snapshot;2
+View Action;Consume Action;1
+Consume Action;View Action;2
+Vinyl Format;Music Release Format Type;1
+Music Release Format Type;Vinyl Format;2
+Violence Consideration;Adult Oriented Enumeration;1
+Adult Oriented Enumeration;Violence Consideration;2
+Virtual Location;Intangible;1
+Intangible;Virtual Location;2
+Virus;Infectious Agent Class;1
+Infectious Agent Class;Virus;2
+Visual Arts Event;Event;1
+Event;Visual Arts Event;2
+Visual Artwork;Creative Work;1
+Creative Work;Visual Artwork;2
+Vital Sign;Medical Sign;1
+Medical Sign;Vital Sign;2
+Volcano;Landform;1
+Landform;Volcano;2
+Vote Action;Choose Action;1
+Choose Action;Vote Action;2
+WP Ad Block;Web Page Element;1
+Web Page Element;WP Ad Block;2
+WP Footer;Web Page Element;1
+Web Page Element;WP Footer;2
+WP Header;Web Page Element;1
+Web Page Element;WP Header;2
+WP Side Bar;Web Page Element;1
+Web Page Element;WP Side Bar;2
+Want Action;React Action;1
+React Action;Want Action;2
+Warranty Promise;Structured Value;1
+Structured Value;Warranty Promise;2
+Warranty Scope;Enumeration;1
+Enumeration;Warranty Scope;2
+Watch Action;Consume Action;1
+Consume Action;Watch Action;2
+Waterfall;Body Of Water;1
+Body Of Water;Waterfall;2
+Weapon Consideration;Adult Oriented Enumeration;1
+Adult Oriented Enumeration;Weapon Consideration;2
+Wear Action;Use Action;1
+Use Action;Wear Action;2
+Wearable Measurement Back;Wearable Measurement Type Enumeration;1
+Wearable Measurement Type Enumeration;Wearable Measurement Back;2
+Wearable Measurement Chest Or Bust;Wearable Measurement Type Enumeration;1
+Wearable Measurement Type Enumeration;Wearable Measurement Chest Or Bust;2
+Wearable Measurement Collar;Wearable Measurement Type Enumeration;1
+Wearable Measurement Type Enumeration;Wearable Measurement Collar;2
+Wearable Measurement Cup;Wearable Measurement Type Enumeration;1
+Wearable Measurement Type Enumeration;Wearable Measurement Cup;2
+Wearable Measurement Height;Wearable Measurement Type Enumeration;1
+Wearable Measurement Type Enumeration;Wearable Measurement Height;2
+Wearable Measurement Hips;Wearable Measurement Type Enumeration;1
+Wearable Measurement Type Enumeration;Wearable Measurement Hips;2
+Wearable Measurement Inseam;Wearable Measurement Type Enumeration;1
+Wearable Measurement Type Enumeration;Wearable Measurement Inseam;2
+Wearable Measurement Length;Wearable Measurement Type Enumeration;1
+Wearable Measurement Type Enumeration;Wearable Measurement Length;2
+Wearable Measurement Outside Leg;Wearable Measurement Type Enumeration;1
+Wearable Measurement Type Enumeration;Wearable Measurement Outside Leg;2
+Wearable Measurement Sleeve;Wearable Measurement Type Enumeration;1
+Wearable Measurement Type Enumeration;Wearable Measurement Sleeve;2
+Wearable Measurement Type Enumeration;Measurement Type Enumeration;1
+Measurement Type Enumeration;Wearable Measurement Type Enumeration;2
+Wearable Measurement Waist;Wearable Measurement Type Enumeration;1
+Wearable Measurement Type Enumeration;Wearable Measurement Waist;2
+Wearable Measurement Width;Wearable Measurement Type Enumeration;1
+Wearable Measurement Type Enumeration;Wearable Measurement Width;2
+Wearable Size Group Big;Wearable Size Group Enumeration;1
+Wearable Size Group Enumeration;Wearable Size Group Big;2
+Wearable Size Group Boys;Wearable Size Group Enumeration;1
+Wearable Size Group Enumeration;Wearable Size Group Boys;2
+Wearable Size Group Enumeration;Size Group Enumeration;1
+Size Group Enumeration;Wearable Size Group Enumeration;2
+Wearable Size Group Extra Short;Wearable Size Group Enumeration;1
+Wearable Size Group Enumeration;Wearable Size Group Extra Short;2
+Wearable Size Group Extra Tall;Wearable Size Group Enumeration;1
+Wearable Size Group Enumeration;Wearable Size Group Extra Tall;2
+Wearable Size Group Girls;Wearable Size Group Enumeration;1
+Wearable Size Group Enumeration;Wearable Size Group Girls;2
+Wearable Size Group Husky;Wearable Size Group Enumeration;1
+Wearable Size Group Enumeration;Wearable Size Group Husky;2
+Wearable Size Group Infants;Wearable Size Group Enumeration;1
+Wearable Size Group Enumeration;Wearable Size Group Infants;2
+Wearable Size Group Juniors;Wearable Size Group Enumeration;1
+Wearable Size Group Enumeration;Wearable Size Group Juniors;2
+Wearable Size Group Maternity;Wearable Size Group Enumeration;1
+Wearable Size Group Enumeration;Wearable Size Group Maternity;2
+Wearable Size Group Mens;Wearable Size Group Enumeration;1
+Wearable Size Group Enumeration;Wearable Size Group Mens;2
+Wearable Size Group Misses;Wearable Size Group Enumeration;1
+Wearable Size Group Enumeration;Wearable Size Group Misses;2
+Wearable Size Group Petite;Wearable Size Group Enumeration;1
+Wearable Size Group Enumeration;Wearable Size Group Petite;2
+Wearable Size Group Plus;Wearable Size Group Enumeration;1
+Wearable Size Group Enumeration;Wearable Size Group Plus;2
+Wearable Size Group Regular;Wearable Size Group Enumeration;1
+Wearable Size Group Enumeration;Wearable Size Group Regular;2
+Wearable Size Group Short;Wearable Size Group Enumeration;1
+Wearable Size Group Enumeration;Wearable Size Group Short;2
+Wearable Size Group Tall;Wearable Size Group Enumeration;1
+Wearable Size Group Enumeration;Wearable Size Group Tall;2
+Wearable Size Group Womens;Wearable Size Group Enumeration;1
+Wearable Size Group Enumeration;Wearable Size Group Womens;2
+Wearable Size SystemAU;Wearable Size System Enumeration;1
+Wearable Size System Enumeration;Wearable Size SystemAU;2
+Wearable Size SystemBR;Wearable Size System Enumeration;1
+Wearable Size System Enumeration;Wearable Size SystemBR;2
+Wearable Size SystemCN;Wearable Size System Enumeration;1
+Wearable Size System Enumeration;Wearable Size SystemCN;2
+Wearable Size System Continental;Wearable Size System Enumeration;1
+Wearable Size System Enumeration;Wearable Size System Continental;2
+Wearable Size SystemDE;Wearable Size System Enumeration;1
+Wearable Size System Enumeration;Wearable Size SystemDE;2
+Wearable Size SystemEN13402;Wearable Size System Enumeration;1
+Wearable Size System Enumeration;Wearable Size SystemEN13402;2
+Wearable Size System Enumeration;Size System Enumeration;1
+Size System Enumeration;Wearable Size System Enumeration;2
+Wearable Size System Europe;Wearable Size System Enumeration;1
+Wearable Size System Enumeration;Wearable Size System Europe;2
+Wearable Size SystemFR;Wearable Size System Enumeration;1
+Wearable Size System Enumeration;Wearable Size SystemFR;2
+Wearable Size SystemGS1;Wearable Size System Enumeration;1
+Wearable Size System Enumeration;Wearable Size SystemGS1;2
+Wearable Size SystemIT;Wearable Size System Enumeration;1
+Wearable Size System Enumeration;Wearable Size SystemIT;2
+Wearable Size SystemJP;Wearable Size System Enumeration;1
+Wearable Size System Enumeration;Wearable Size SystemJP;2
+Wearable Size SystemMX;Wearable Size System Enumeration;1
+Wearable Size System Enumeration;Wearable Size SystemMX;2
+Wearable Size SystemUK;Wearable Size System Enumeration;1
+Wearable Size System Enumeration;Wearable Size SystemUK;2
+Wearable Size SystemUS;Wearable Size System Enumeration;1
+Wearable Size System Enumeration;Wearable Size SystemUS;2
+WebAPI;Service;1
+Service;WebAPI;2
+Web Application;Software Application;1
+Software Application;Web Application;2
+Web Content;Creative Work;1
+Creative Work;Web Content;2
+Web Page;Creative Work;1
+Creative Work;Web Page;2
+Web Page Element;Creative Work;1
+Creative Work;Web Page Element;2
+Web Site;Creative Work;1
+Creative Work;Web Site;2
+Wednesday;Day Of Week;1
+Day Of Week;Wednesday;2
+Western Conventional;Medicine System;1
+Medicine System;Western Conventional;2
+Wholesale;Drug Cost Category;1
+Drug Cost Category;Wholesale;2
+Wholesale Store;Store;1
+Store;Wholesale Store;2
+Win Action;Achieve Action;1
+Achieve Action;Win Action;2
+Winery;Food Establishment;1
+Food Establishment;Winery;2
+Withdrawn;Medical Study Status;1
+Medical Study Status;Withdrawn;2
+Work Based Program;Educational Occupational Program;1
+Educational Occupational Program;Work Based Program;2
+Workers Union;Organization;1
+Organization;Workers Union;2
+Write Action;Create Action;1
+Create Action;Write Action;2
+Write Permission;Digital Document Permission Type;1
+Digital Document Permission Type;Write Permission;2
+X Path Type;Text;1
+Text;X Path Type;2
+X Ray;Medical Imaging Technique;1
+Medical Imaging Technique;X Ray;2
+Zone Boarding Policy;Boarding Policy Type;1
+Boarding Policy Type;Zone Boarding Policy;2
+Zoo;Civic Structure;1
+Civic Structure;Zoo;2
+Date Time;FALSE;5
+Number;Boolean;5
+Date;Time;5
+TRUE;Text;5
+FALSE;Date;5
+Online Event Attendance Mode;Offline Event Attendance Mode;5
+Offline Event Attendance Mode;Online Event Attendance Mode;5
+Offline Event Attendance Mode;Mixed Event Attendance Mode;5
+Mixed Event Attendance Mode;Offline Event Attendance Mode;5
+Online Event Attendance Mode;Mixed Event Attendance Mode;5
+Drug;Product Model;5
+Product Model;Product Collection;5
+Dietary Supplement;Product Collection;5
+Vehicle;Drug;5
+Some Products;Drug;5
+Jewelry Store;Convenience Store;5
+Book Store;Jewelry Store;5
+Department Store;Outlet Store;5
+Mobile Phone Store;Movie Rental Store;5
+Furniture Store;Office Equipment Store;5
+Group Boarding Policy;Zone Boarding Policy;5
+Zone Boarding Policy;Group Boarding Policy;5
+Eye;Nose;5
+Lung;Appearance;5
+Abdomen;Ear;5
+Musculoskeletal Exam;Genitourinary;5
+Abdomen;Skin;5
+Activate Action;Suspend Action;5
+Suspend Action;Deactivate Action;5
+Suspend Action;Resume Action;5
+Suspend Action;Activate Action;5
+Deactivate Action;Suspend Action;5
+Currency Conversion Service;Investment Or Deposit;5
+Currency Conversion Service;Payment Card;5
+Investment Or Deposit;Loan Or Credit;5
+Loan Or Credit;Currency Conversion Service;5
+Investment Or Deposit;Currency Conversion Service;5
+Infectious Disease;Medical Sign Or Symptom;5
+Medical Sign Or Symptom;Infectious Disease;5
+Medical Entity;Taxon;5
+Product;Intangible;5
+Creative Work;Intangible;5
+Taxon;Medical Entity;5
+Creative Work;Action;5
+Pond;Lake Body Of Water;5
+River Body Of Water;Canal;5
+Canal;Sea Body Of Water;5
+River Body Of Water;Ocean Body Of Water;5
+Lake Body Of Water;Ocean Body Of Water;5
+Wearable Size SystemDE;Wearable Size SystemCN;5
+Wearable Size SystemIT;Wearable Size SystemGS1;5
+Wearable Size SystemAU;Wearable Size SystemUK;5
+Wearable Size SystemUS;Wearable Size SystemAU;5
+Wearable Size System Europe;Wearable Size System Continental;5
+Periodical;TV Series;5
+Video Game Series;Periodical;5
+Book Series;Radio Series;5
+Movie Series;Radio Series;5
+Podcast Series;Radio Series;5
+Wearable Measurement Waist;Wearable Measurement Height;5
+Wearable Measurement Length;Wearable Measurement Back;5
+Wearable Measurement Collar;Wearable Measurement Waist;5
+Wearable Measurement Waist;Wearable Measurement Hips;5
+Wearable Measurement Collar;Wearable Measurement Back;5
+People Audience;Business Audience;5
+Researcher;Medical Audience;5
+Business Audience;Medical Audience;5
+Medical Audience;Researcher;5
+Researcher;Business Audience;5
+Drug Cost;Medical Study;5
+Medical Guideline;Medical Risk Estimator;5
+Anatomical Structure;Medical Condition;5
+Anatomical System;Medical Guideline;5
+Medical Procedure;Anatomical Structure;5
+Store Credit Refund;Full Refund;5
+Exchange Refund;Full Refund;5
+Full Refund;Exchange Refund;5
+Exchange Refund;Store Credit Refund;5
+Store Credit Refund;Exchange Refund;5
+Aquarium;Campground;5
+Airport;Boat Terminal;5
+Museum;Airport;5
+Movie Theater;Event Venue;5
+Cemetery;Performing Arts Theater;5
+NonprofitSBBI;NonprofitANBI;5
+NonprofitANBI;NonprofitSBBI;5
+Funding Agency;Research Project;5
+Research Project;Funding Agency;5
+Delivery Charge Specification;Payment Charge Specification;5
+Unit Price Specification;Delivery Charge Specification;5
+Delivery Charge Specification;Unit Price Specification;5
+Unit Price Specification;Payment Charge Specification;5
+Compound Price Specification;Unit Price Specification;5
+Virus;Fungus;5
+Virus;Prion;5
+Prion;Virus;5
+Multicellular Parasite;Prion;5
+Virus;Protozoa;5
+Body Of Water;Mountain;5
+Volcano;Body Of Water;5
+Continent;Mountain;5
+Continent;Volcano;5
+Mountain;Volcano;5
+Male;Female;5
+Female;Male;5
+Prescription Only;OTC;5
+OTC;Prescription Only;5
+Audiobook;Audio Object Snapshot;5
+Audio Object Snapshot;Audiobook;5
+Prepend Action;Append Action;5
+Append Action;Prepend Action;5
+Event Postponed;Event Rescheduled;5
+Event Moved Online;Event Postponed;5
+Event Rescheduled;Event Cancelled;5
+Event Rescheduled;Event Scheduled;5
+Event Cancelled;Event Scheduled;5
+Arrive Action;Depart Action;5
+Arrive Action;Travel Action;5
+Travel Action;Depart Action;5
+Travel Action;Arrive Action;5
+Depart Action;Travel Action;5
+Driving School Vehicle Usage;Rental Vehicle Usage;5
+Driving School Vehicle Usage;Taxi Vehicle Usage;5
+Rental Vehicle Usage;Taxi Vehicle Usage;5
+Taxi Vehicle Usage;Rental Vehicle Usage;5
+Rental Vehicle Usage;Driving School Vehicle Usage;5
+Hotel;Bed And Breakfast;5
+Campground;Hostel;5
+Campground;Bed And Breakfast;5
+Motel;Hostel;5
+Resort;Hostel;5
+Placebo Controlled Trial;International Trial;5
+Open Trial;Single Blinded Trial;5
+International Trial;Double Blinded Trial;5
+Triple Blinded Trial;International Trial;5
+Placebo Controlled Trial;Triple Blinded Trial;5
+Generic Web Platform;Mobile Web Platform;5
+Desktop Web Platform;Mobile Web Platform;5
+Mobile Web Platform;Android Platform;5
+IOS Platform;Android Platform;5
+Generic Web Platform;Android Platform;5
+Payment Automatically Applied;Payment Due;5
+Payment Declined;Payment Due;5
+Payment Automatically Applied;Payment Declined;5
+Payment Due;Payment Past Due;5
+Payment Declined;Payment Past Due;5
+Medical Guideline Contraindication;Medical Guideline Recommendation;5
+Medical Guideline Recommendation;Medical Guideline Contraindication;5
+Venue Map;Transit Map;5
+Transit Map;Parking Map;5
+Parking Map;Transit Map;5
+Transit Map;Seating Map;5
+Seating Map;Parking Map;5
+Medical Sign;Medical Symptom;5
+Medical Symptom;Medical Sign;5
+Drug;Dietary Supplement;5
+Dietary Supplement;Drug;5
+School District;State;5
+Country;City;5
+State;Country;5
+City;State;5
+Country;State;5
+Attorney;Notary;5
+Notary;Attorney;5
+Opinion News Article;Review News Article;5
+Background News Article;Reportage News Article;5
+Reportage News Article;Opinion News Article;5
+Background News Article;Ask Public News Article;5
+Review News Article;Background News Article;5
+User Likes;User Checkins;5
+User Plus Ones;User Likes;5
+User Likes;User Blocks;5
+User Tweets;User Comments;5
+User Downloads;User Plus Ones;5
+Bus Trip;Tourist Trip;5
+Boat Trip;Train Trip;5
+Boat Trip;Flight;5
+Train Trip;Boat Trip;5
+Tourist Trip;Bus Trip;5
+Maximum Dose Schedule;Recommended Dose Schedule;5
+Maximum Dose Schedule;Reported Dose Schedule;5
+Reported Dose Schedule;Maximum Dose Schedule;5
+Reported Dose Schedule;Recommended Dose Schedule;5
+Recommended Dose Schedule;Reported Dose Schedule;5
+Event Attendance Mode Enumeration;Map Category Type;5
+Energy Efficiency Enumeration;Map Category Type;5
+Legal Value Level;Business Entity Type;5
+Adult Oriented Enumeration;Price Type Enumeration;5
+Return Method Enumeration;Day Of Week;5
+Satire Or Parody Content;Edited Or Cropped Content;5
+Staged Content;Transformed Content;5
+Original Media Content;Edited Or Cropped Content;5
+Original Media Content;Staged Content;5
+Original Media Content;Transformed Content;5
+PET;X Ray;5
+MRI;Ultrasound;5
+PET;CT;5
+MRI;Radiography;5
+CT;MRI;5
+Wearable Size System Enumeration;Size System Imperial;5
+Size System Metric;Wearable Size System Enumeration;5
+Size System Imperial;Size System Metric;5
+Wearable Size System Enumeration;Size System Metric;5
+Size System Metric;Size System Imperial;5
+Hearing Impaired Supported;Toll Free;5
+Toll Free;Hearing Impaired Supported;5
+Photograph Action;Draw Action;5
+Paint Action;Photograph Action;5
+Draw Action;Photograph Action;5
+Draw Action;Film Action;5
+Paint Action;Film Action;5
+Assign Action;Reject Action;5
+Authorize Action;Accept Action;5
+Assign Action;Accept Action;5
+Reject Action;Assign Action;5
+Accept Action;Reject Action;5
+User Interaction;Sale Event;5
+Publication Event;Comedy Event;5
+User Interaction;Comedy Event;5
+Dance Event;Sale Event;5
+Social Event;Food Event;5
+Ignore Action;Choose Action;5
+Review Action;Choose Action;5
+Review Action;React Action;5
+Choose Action;Ignore Action;5
+Ignore Action;Review Action;5
+Medical Observational Study;Medical Trial;5
+Medical Trial;Medical Observational Study;5
+Tourist Destination;Local Business;5
+Landmarks Or Historical Buildings;Tourist Destination;5
+Landform;Tourist Attraction;5
+Tourist Attraction;Landform;5
+Tourist Destination;Accommodation;5
+Prevention Indication;Approved Indication;5
+Approved Indication;Treatment Indication;5
+Approved Indication;Prevention Indication;5
+Prevention Indication;Treatment Indication;5
+Treatment Indication;Approved Indication;5
+Psychological Treatment;Medical Therapy;5
+Medical Therapy;Psychological Treatment;5
+Activation Fee;Cleaning Fee;5
+Activation Fee;Distance Fee;5
+Activation Fee;Downpayment;5
+Installment;Activation Fee;5
+Installment;Subscription;5
+On Demand Event;Broadcast Event;5
+Broadcast Event;On Demand Event;5
+Write Permission;Comment Permission;5
+Comment Permission;Read Permission;5
+Write Permission;Read Permission;5
+Read Permission;Write Permission;5
+Read Permission;Comment Permission;5
+Image Object Snapshot;Barcode;5
+Barcode;Image Object Snapshot;5
+Tie Action;Win Action;5
+Win Action;Tie Action;5
+Tie Action;Lose Action;5
+Win Action;Lose Action;5
+Lose Action;Win Action;5
+Car;Bus Or Coach;5
+Motorcycle;Motorized Bicycle;5
+Motorized Bicycle;Motorcycle;5
+Motorcycle;Bus Or Coach;5
+Bus Or Coach;Motorcycle;5
+Physiotherapy;Pediatric;5
+Optician;Dermatology;5
+Community Health;Otolaryngologic;5
+Geriatric;Physiotherapy;5
+Optometric;Public Health;5
+Merchant Return Unlimited Window;Merchant Return Not Permitted;5
+Merchant Return Finite Return Window;Merchant Return Unspecified;5
+Merchant Return Unspecified;Merchant Return Finite Return Window;5
+Merchant Return Not Permitted;Merchant Return Finite Return Window;5
+Merchant Return Unlimited Window;Merchant Return Unspecified;5
+Body Measurement Type Enumeration;Wearable Measurement Type Enumeration;5
+Wearable Measurement Type Enumeration;Body Measurement Type Enumeration;5
+On Site Pickup;Parcel Service;5
+Locker Delivery;On Site Pickup;5
+Parcel Service;Locker Delivery;5
+Locker Delivery;Parcel Service;5
+Parcel Service;On Site Pickup;5
+Music Release;Music Album;5
+Music Album;Music Release;5
+Link Role;Performance Role;5
+Organization Role;Performance Role;5
+Performance Role;Organization Role;5
+Link Role;Organization Role;5
+Organization Role;Link Role;5
+Payment Status Type;Order Status;5
+Legal Force Status;Order Status;5
+Reservation Status Type;Payment Status Type;5
+Action Status Type;Order Status;5
+Legal Force Status;Game Server Status;5
+Single Player;Co Op;5
+Multi Player;Single Player;5
+Co Op;Single Player;5
+Co Op;Multi Player;5
+Multi Player;Co Op;5
+Muscle;Brain Structure;5
+Ligament;Muscle;5
+Ligament;Nerve;5
+Ligament;Bone;5
+Brain Structure;Joint;5
+Offer For Purchase;Aggregate Offer;5
+Aggregate Offer;Offer For Lease;5
+Aggregate Offer;Offer For Purchase;5
+Offer For Lease;Aggregate Offer;5
+Offer For Lease;Offer For Purchase;5
+Therapeutic;Diagnostic;5
+Diagnostic;Therapeutic;5
+Radio Channel;Television Channel;5
+Television Channel;Radio Channel;5
+Dentist;Hospital;5
+Hospital;Medical Clinic;5
+Hospital;Pharmacy;5
+Medical Clinic;Pharmacy;5
+Veterinary Care;Medical Clinic;5
+Dangerous Good Consideration;Tobacco Nicotine Consideration;5
+Sexual Content Consideration;Tobacco Nicotine Consideration;5
+Tobacco Nicotine Consideration;Reduced Relevance For Children Consideration;5
+Alcohol Consideration;Weapon Consideration;5
+Narcotic Consideration;Weapon Consideration;5
+Update Action;Move Action;5
+Update Action;Control Action;5
+Organize Action;Transfer Action;5
+Seek To Action;Interact Action;5
+Solve Math Action;Find Action;5
+Minimum Advertised Price;List Price;5
+List Price;Sale Price;5
+MSRP;SRP;5
+Invoice Price;MSRP;5
+Sale Price;List Price;5
+Noninvasive Procedure;Percutaneous Procedure;5
+Percutaneous Procedure;Noninvasive Procedure;5
+Endorsement Rating;Aggregate Rating;5
+Aggregate Rating;Endorsement Rating;5
+Authoritative Legal Value;Unofficial Legal Value;5
+Official Legal Value;Authoritative Legal Value;5
+Official Legal Value;Unofficial Legal Value;5
+Unofficial Legal Value;Authoritative Legal Value;5
+Official Legal Value;Definitive Legal Value;5
+Employer Review;Critic Review;5
+User Review;Employer Review;5
+Employer Review;Recommendation;5
+Media Review;Critic Review;5
+Media Review;Claim Review;5
+Return Label In Box;Return Label Customer Responsibility;5
+Return Label Download And Print;Return Label In Box;5
+Return Label Customer Responsibility;Return Label In Box;5
+Return Label Customer Responsibility;Return Label Download And Print;5
+Return Label Download And Print;Return Label Customer Responsibility;5
+Tennis Complex;Public Swimming Pool;5
+Golf Course;Ski Resort;5
+Stadium Or Arena;Exercise Gym;5
+Sports Club;Public Swimming Pool;5
+Ski Resort;Tennis Complex;5
+Artery;Lymphatic Vessel;5
+Vein;Artery;5
+Lymphatic Vessel;Vein;5
+Lymphatic Vessel;Artery;5
+Artery;Vein;5
+Integer;Float;5
+Float;Integer;5
+EU Energy Efficiency CategoryG;EU Energy Efficiency CategoryA3 Plus;5
+EU Energy Efficiency CategoryA3 Plus;EU Energy Efficiency CategoryB;5
+EU Energy Efficiency CategoryE;EU Energy Efficiency CategoryC;5
+EU Energy Efficiency CategoryA2 Plus;EU Energy Efficiency CategoryA1 Plus;5
+EU Energy Efficiency CategoryA1 Plus;EU Energy Efficiency CategoryA3 Plus;5
+Manuscript;Dataset;5
+Comment;Short Story;5
+Painting;Archive Component;5
+Quotation;Sheet Music;5
+Exercise Plan;Hyper Toc;5
+Church;Synagogue;5
+Mosque;Buddhist Temple;5
+Synagogue;Mosque;5
+Mosque;Hindu Temple;5
+Buddhist Temple;Synagogue;5
+Free Return;Return Shipping Fees;5
+Return Shipping Fees;Return Fees Customer Responsibility;5
+Restocking Fees;Return Fees Customer Responsibility;5
+Original Shipping Fees;Return Shipping Fees;5
+Free Return;Original Shipping Fees;5
+Hotel Room;Meeting Room;5
+Meeting Room;Hotel Room;5
+Interaction Counter;Offer Shipping Details;5
+Offer Shipping Details;Interaction Counter;5
+Shipping Delivery Time;Warranty Promise;5
+Postal Code Range Specification;Exchange Rate Specification;5
+Postal Code Range Specification;Ownership Info;5
+Disagree Action;Like Action;5
+Like Action;Agree Action;5
+Agree Action;Endorse Action;5
+Want Action;Disagree Action;5
+Like Action;Want Action;5
+Embassy;Defence Establishment;5
+Legislative Building;Defence Establishment;5
+Defence Establishment;Legislative Building;5
+Legislative Building;Embassy;5
+Legislative Building;Courthouse;5
+Gated Residence Community;Apartment Complex;5
+Apartment Complex;Gated Residence Community;5
+Moving Company;Roofing Contractor;5
+Electrician;General Contractor;5
+HVAC Business;General Contractor;5
+Moving Company;Electrician;5
+HVAC Business;Moving Company;5
+Podcast Episode;TV Episode;5
+TV Episode;Podcast Episode;5
+Radio Episode;Podcast Episode;5
+Radio Episode;TV Episode;5
+Podcast Episode;Radio Episode;5
+Strength Training;Balance;5
+Balance;Flexibility;5
+Balance;Leisure Time Activity;5
+Strength Training;Occupational Activity;5
+Occupational Activity;Strength Training;5
+Partially In Force;In Force;5
+Not In Force;Partially In Force;5
+Not In Force;In Force;5
+In Force;Not In Force;5
+In Force;Partially In Force;5
+Case Series;Longitudinal;5
+Cross Sectional;Registry;5
+Registry;Longitudinal;5
+Cross Sectional;Longitudinal;5
+Observational;Registry;5
+Evidence LevelC;Evidence LevelA;5
+Evidence LevelA;Evidence LevelB;5
+Evidence LevelB;Evidence LevelC;5
+Evidence LevelB;Evidence LevelA;5
+Evidence LevelC;Evidence LevelB;5
+Physical Therapy;Respiratory Therapy;5
+Palliative Procedure;Radiation Therapy;5
+Radiation Therapy;Respiratory Therapy;5
+Physical Therapy;Radiation Therapy;5
+Physical Therapy;Occupational Therapy;5
+Charitable Incorporated Organization;Limited By Guarantee Charity;5
+Limited By Guarantee Charity;UK Trust;5
+Charitable Incorporated Organization;UK Trust;5
+UK Trust;Limited By Guarantee Charity;5
+UK Trust;Charitable Incorporated Organization;5
+Refurbished Condition;Damaged Condition;5
+Damaged Condition;Used Condition;5
+New Condition;Damaged Condition;5
+Used Condition;Refurbished Condition;5
+Damaged Condition;Refurbished Condition;5
+Reservation Hold;Reservation Confirmed;5
+Reservation Confirmed;Reservation Pending;5
+Reservation Hold;Reservation Cancelled;5
+Reservation Cancelled;Reservation Confirmed;5
+Reservation Confirmed;Reservation Cancelled;5
+Check Action;Track Action;5
+Discover Action;Track Action;5
+Check Action;Discover Action;5
+Discover Action;Check Action;5
+Track Action;Check Action;5
+Tourist Information Center;Television Station;5
+Tourist Information Center;Store;5
+Tourist Information Center;Entertainment Business;5
+Tourist Information Center;Medical Business;5
+Automotive Business;Archive Organization;5
+Medical Researcher;Clinician;5
+Clinician;Medical Researcher;5
+Quiz;Course;5
+Course;Quiz;5
+Item List Unordered;Item List Order Ascending;5
+Item List Order Descending;Item List Unordered;5
+Item List Order Descending;Item List Order Ascending;5
+Item List Order Ascending;Item List Order Descending;5
+Item List Order Ascending;Item List Unordered;5
+Unemployment Support;Basic Income;5
+Disability Support;Health Care;5
+Unemployment Support;Parental Support;5
+Unemployment Support;Disability Support;5
+Business Support;Parental Support;5
+Rsvp Response No;Rsvp Response Maybe;5
+Rsvp Response Maybe;Rsvp Response No;5
+Rsvp Response Yes;Rsvp Response No;5
+Rsvp Response Yes;Rsvp Response Maybe;5
+Rsvp Response No;Rsvp Response Yes;5
+Brewery;Restaurant;5
+Bar Or Pub;Fast Food Restaurant;5
+Cafe Or Coffee Shop;Bakery;5
+Fast Food Restaurant;Ice Cream Shop;5
+Brewery;Bakery;5
+Reimbursement Cap;Wholesale;5
+Reimbursement Cap;Retail;5
+Wholesale;Retail;5
+Retail;Wholesale;5
+Retail;Reimbursement Cap;5
+Withdrawn;Not Yet Recruiting;5
+Terminated;Results Not Available;5
+Active Not Recruiting;Enrolling By Invitation;5
+Recruiting;Results Available;5
+Suspended;Active Not Recruiting;5
+Funding Scheme;Medical Organization;5
+News Media Organization;Airline;5
+Search Rescue Organization;Library System;5
+Local Business;NGO;5
+Airline;Consortium;5
+Preschool;College Or University;5
+Middle School;Elementary School;5
+Elementary School;School;5
+School;High School;5
+High School;Elementary School;5
+Social Media Posting;Scholarly Article;5
+News Article;Report;5
+Tech Article;Advertiser Content Article;5
+Satirical Article;Scholarly Article;5
+Report;Advertiser Content Article;5
+Fire Station;Police Station;5
+Police Station;Fire Station;5
+Hospital;Fire Station;5
+Fire Station;Hospital;5
+Hospital;Police Station;5
+Demo Game Availability;Full Game Availability;5
+Full Game Availability;Demo Game Availability;5
+FM Radio Channel;AM Radio Channel;5
+AM Radio Channel;FM Radio Channel;5
+Mobile Application;Video Game;5
+Web Application;Video Game;5
+Mobile Application;Web Application;5
+Web Application;Mobile Application;5
+Video Game;Mobile Application;5
+TV Clip;Radio Clip;5
+Movie Clip;Video Game Clip;5
+Radio Clip;TV Clip;5
+Radio Clip;Movie Clip;5
+Video Game Clip;Radio Clip;5
+Order Action;Tip Action;5
+Buy Action;Tip Action;5
+Rent Action;Donate Action;5
+Rent Action;Sell Action;5
+Pre Order Action;Pay Action;5
+How To Tool;How To Supply;5
+How To Supply;How To Tool;5
+Media Subscription;Defined Term;5
+Service;Broadcast Channel;5
+Observation;Game Server;5
+Series;Digital Document Permission;5
+Rating;Order;5
+Return Action;Money Transfer;5
+Give Action;Take Action;5
+Give Action;Lend Action;5
+Lend Action;Send Action;5
+Download Action;Return Action;5
+Offline Temporarily;Online;5
+Offline Permanently;Online;5
+Online;Online Full;5
+Online Full;Offline Temporarily;5
+Offline Temporarily;Offline Permanently;5
+Video Gallery;Image Gallery;5
+Image Gallery;Video Gallery;5
+DJ Mix Album;Mixtape Album;5
+Compilation Album;Remix Album;5
+DJ Mix Album;Demo Album;5
+Studio Album;Soundtrack Album;5
+Demo Album;Studio Album;5
+Steering Position Value;Drive Wheel Configuration Value;5
+Drive Wheel Configuration Value;Bed Type;5
+Steering Position Value;Size Specification;5
+Bed Type;Steering Position Value;5
+Bed Type;Drive Wheel Configuration Value;5
+Energy Star Energy Efficiency Enumeration;EU Energy Efficiency Enumeration;5
+EU Energy Efficiency Enumeration;Energy Star Energy Efficiency Enumeration;5
+Medical Web Page;Checkout Page;5
+Collection Page;FAQ Page;5
+Checkout Page;QA Page;5
+FAQ Page;Contact Page;5
+About Page;Collection Page;5
+Drug Cost Category;Medical Study Status;5
+Medical Study Status;Infectious Agent Class;5
+Medical Procedure Type;Medical Evidence Level;5
+Medical Observational Study Design;Drug Pregnancy Category;5
+Drug Cost Category;Medical Observational Study Design;5
+Insurance Agency;Automated Teller;5
+Bank Or Credit Union;Accounting Service;5
+Automated Teller;Accounting Service;5
+Bank Or Credit Union;Automated Teller;5
+Bank Or Credit Union;Insurance Agency;5
+Pronounceable Text;X Path Type;5
+URL;X Path Type;5
+Css Selector Type;Pronounceable Text;5
+URL;Css Selector Type;5
+Pronounceable Text;URL;5
+Vegan Diet;Low Salt Diet;5
+Vegan Diet;Low Lactose Diet;5
+Hindu Diet;Low Fat Diet;5
+Kosher Diet;Vegetarian Diet;5
+Low Calorie Diet;Vegetarian Diet;5
+Cancel Action;Schedule Action;5
+Reserve Action;Cancel Action;5
+Cancel Action;Reserve Action;5
+Schedule Action;Cancel Action;5
+Schedule Action;Reserve Action;5
+Western Conventional;Traditional Chinese;5
+Homeopathic;Osteopathic;5
+Ayurvedic;Osteopathic;5
+Homeopathic;Ayurvedic;5
+Traditional Chinese;Ayurvedic;5
+House;Camping Pitch;5
+Room;Apartment;5
+Suite;Camping Pitch;5
+Camping Pitch;Apartment;5
+Apartment;Room;5
+Exercise Action;Perform Action;5
+Perform Action;Exercise Action;5
+Single Release;Broadcast Release;5
+Broadcast Release;Album Release;5
+EP Release;Album Release;5
+Album Release;EP Release;5
+Single Release;Album Release;5
+Physiotherapy;Community Health;5
+Cardiovascular;Neurologic;5
+Musculoskeletal;Dermatologic;5
+Dermatology;Emergency;5
+Renal;Primary Care;5
+Drug Strength;Medical Condition Stage;5
+Dose Schedule;Medical Code;5
+Medical Code;Drug Legal Status;5
+D Dx Element;Medical Condition Stage;5
+Dose Schedule;D Dx Element;5
+Discontinued;Pre Sale;5
+Limited Availability;Discontinued;5
+Limited Availability;In Stock;5
+Sold Out;Online Only;5
+In Store Only;Online Only;5
+Front Wheel Drive Configuration;Four Wheel Drive Configuration;5
+All Wheel Drive Configuration;Front Wheel Drive Configuration;5
+All Wheel Drive Configuration;Rear Wheel Drive Configuration;5
+Front Wheel Drive Configuration;All Wheel Drive Configuration;5
+Four Wheel Drive Configuration;All Wheel Drive Configuration;5
+Rental Car Reservation;Train Reservation;5
+Flight Reservation;Bus Reservation;5
+Flight Reservation;Taxi Reservation;5
+Reservation Package;Event Reservation;5
+Boat Reservation;Lodging Reservation;5
+Rsvp Action;Confirm Action;5
+Confirm Action;Rsvp Action;5
+Wearable Size Group Womens;Wearable Size Group Juniors;5
+Wearable Size Group Plus;Wearable Size Group Womens;5
+Wearable Size Group Petite;Wearable Size Group Girls;5
+Wearable Size Group Extra Tall;Wearable Size Group Maternity;5
+Wearable Size Group Girls;Wearable Size Group Husky;5
+Hardcover;Audiobook Format;5
+E Book;Paperback;5
+Hardcover;Graphic Novel;5
+Graphic Novel;Audiobook Format;5
+Paperback;E Book;5
+Active Action Status;Completed Action Status;5
+Failed Action Status;Completed Action Status;5
+Active Action Status;Potential Action Status;5
+Failed Action Status;Active Action Status;5
+Completed Action Status;Active Action Status;5
+Discussion Forum Posting;Blog Posting;5
+Blog Posting;Discussion Forum Posting;5
+How To Step;How To Section;5
+How To Step;How To Tip;5
+How To Item;How To Section;5
+How To Step;How To Item;5
+How To Step;How To Direction;5
+Mortgage Loan;Credit Card;5
+Credit Card;Mortgage Loan;5
+Nail Salon;Tattoo Parlor;5
+Beauty Salon;Nail Salon;5
+Tattoo Parlor;Beauty Salon;5
+Nail Salon;Beauty Salon;5
+Beauty Salon;Day Spa;5
+Podcast Season;TV Season;5
+Podcast Season;Radio Season;5
+TV Season;Radio Season;5
+Radio Season;Podcast Season;5
+Radio Season;TV Season;5
+Deposit Account;Brokerage Account;5
+Deposit Account;Investment Fund;5
+Investment Fund;Deposit Account;5
+Brokerage Account;Deposit Account;5
+Brokerage Account;Investment Fund;5
+Site Navigation Element;WP Ad Block;5
+Table;WP Ad Block;5
+WP Side Bar;WP Footer;5
+WP Footer;Table;5
+WP Header;WP Ad Block;5
+Molecular Entity;Protein;5
+Gene;Molecular Entity;5
+Molecular Entity;Chemical Substance;5
+Protein;Chemical Substance;5
+Chemical Substance;Gene;5
+See Doctor Health Aspect;Overview Health Aspect;5
+Symptoms Health Aspect;How Or Where Health Aspect;5
+How It Works Health Aspect;Prognosis Health Aspect;5
+Patient Experience Health Aspect;May Treat Health Aspect;5
+Pregnancy Health Aspect;Living With Health Aspect;5
+Marry Action;Subscribe Action;5
+Register Action;Un Register Action;5
+Join Action;Un Register Action;5
+Un Register Action;Register Action;5
+Leave Action;Marry Action;5
+US Nonprofit Type;UK Nonprofit Type;5
+UK Nonprofit Type;NL Nonprofit Type;5
+NL Nonprofit Type;UK Nonprofit Type;5
+US Nonprofit Type;NL Nonprofit Type;5
+UK Nonprofit Type;US Nonprofit Type;5
+How To Section;Offer Catalog;5
+How To Step;Breadcrumb List;5
+How To Step;How To Section;5
+How To Section;Breadcrumb List;5
+Breadcrumb List;Offer Catalog;5
+FD AcategoryB;FD Anot Evaluated;5
+FD AcategoryD;FD AcategoryB;5
+FD Anot Evaluated;FD AcategoryA;5
+FD AcategoryD;FD AcategoryX;5
+FD AcategoryA;FD AcategoryB;5
+Drink Action;Use Action;5
+Watch Action;Play Game Action;5
+Watch Action;Listen Action;5
+View Action;Listen Action;5
+Install Action;Eat Action;5
+Return At Kiosk;Return By Mail;5
+Return At Kiosk;Return In Store;5
+Return By Mail;Return In Store;5
+Return In Store;Return At Kiosk;5
+Return In Store;Return By Mail;5
+Body Measurement Waist;Body Measurement Height;5
+Body Measurement Arm;Body Measurement Hips;5
+Body Measurement Height;Body Measurement Neck;5
+Body Measurement Neck;Body Measurement Foot;5
+Body Measurement Underbust;Body Measurement Bust;5
+Video Object;Amp Story;5
+Amp Story;Video Object;5
+Audio Object;Data Download;5
+Legislation Object;Video Object;5
+Image Object;Legislation Object;5
+Night Club;Art Gallery;5
+Night Club;Casino;5
+Casino;Amusement Park;5
+Casino;Adult Entertainment;5
+Art Gallery;Night Club;5
+Order Problem;Order Pickup Available;5
+Order Cancelled;Order In Transit;5
+Order Problem;Order In Transit;5
+Order Processing;Order Cancelled;5
+Order Problem;Order Payment Due;5
+Ask Action;Inform Action;5
+Check Out Action;Ask Action;5
+Comment Action;Invite Action;5
+Share Action;Comment Action;5
+Inform Action;Check Out Action;5
+Friday;Monday;5
+Friday;Public Holidays;5
+Thursday;Sunday;5
+Public Holidays;Sunday;5
+Saturday;Wednesday;5
+Diet;Physical Activity;5
+Physical Activity;Diet;5
+Auto Wash;Auto Rental;5
+Auto Body Shop;Gas Station;5
+Auto Repair;Motorcycle Repair;5
+Motorcycle Dealer;Gas Station;5
+Auto Wash;Motorcycle Dealer;5
+Correction Comment;Question;5
+Answer;Question;5
+Answer;Correction Comment;5
+Question;Correction Comment;5
+Correction Comment;Answer;5
+Nonprofit527;Nonprofit501c11;5
+Nonprofit501c24;Nonprofit501c3;5
+Nonprofit501c13;Nonprofit501c7;5
+Nonprofit501c1;Nonprofit501c17;5
+Nonprofit501c23;Nonprofit501c5;5
+Physical Exam;Therapeutic Procedure;5
+Palliative Procedure;Therapeutic Procedure;5
+Palliative Procedure;Physical Exam;5
+Therapeutic Procedure;Physical Exam;5
+Therapeutic Procedure;Palliative Procedure;5
+Newspaper;Comic Series;5
+Comic Series;Newspaper;5
+Apply Action;Plan Action;5
+Allocate Action;Plan Action;5
+Apply Action;Bookmark Action;5
+Allocate Action;Bookmark Action;5
+Plan Action;Bookmark Action;5
+Energy;Distance;5
+Distance;Duration;5
+Distance;Mass;5
+Duration;Energy;5
+Duration;Mass;5
+Taxi;Taxi Service;5
+Broadcast Service;WebAPI;5
+Taxi;Financial Product;5
+Food Service;Broadcast Service;5
+Taxi Service;Financial Product;5
+Medical Audience;Parent Audience;5
+Parent Audience;Medical Audience;5
+Music Group;Dance Group;5
+Dance Group;Theater Group;5
+Theater Group;Dance Group;5
+Dance Group;Music Group;5
+Theater Group;Music Group;5
+Pathology Test;Imaging Test;5
+Imaging Test;Blood Test;5
+Pathology Test;Blood Test;5
+Imaging Test;Pathology Test;5
+Medical Test Panel;Pathology Test;5
+Creative Work Series;Event Series;5
+Event Series;Creative Work Series;5
+Medical Risk Calculator;Medical Risk Score;5
+Medical Risk Score;Medical Risk Calculator;5
+Delete Action;Replace Action;5
+Replace Action;Delete Action;5
+Delete Action;Add Action;5
+Add Action;Delete Action;5
+Replace Action;Add Action;5
+CD Format;Digital Audio Tape Format;5
+Laser Disc Format;DVD Format;5
+Laser Disc Format;Vinyl Format;5
+Digital Audio Tape Format;Cassette Format;5
+Cassette Format;Digital Audio Tape Format;5
+Spreadsheet Digital Document;Presentation Digital Document;5
+Spreadsheet Digital Document;Note Digital Document;5
+Text Digital Document;Presentation Digital Document;5
+Note Digital Document;Text Digital Document;5
+Text Digital Document;Spreadsheet Digital Document;5
+Left Hand Driving;Right Hand Driving;5
+Right Hand Driving;Left Hand Driving;5

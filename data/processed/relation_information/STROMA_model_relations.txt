@@ -1,0 +1,7 @@
+exactMatch
+broadMatch
+narrowMatch
+partOf
+hasPart
+cohyphonym
+negative

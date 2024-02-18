@@ -1,0 +1,17 @@
+Overall Accuracy: 58 %
+Confusion Matrix:
+                    Predicted broadMatch  Predicted exactMatch  Predicted narrowMatch
+Actual broadMatch                    301                     5                    197
+Actual exactMatch                     77                    14                    159
+Actual narrowMatch                   183                    19                    605
+Classification Report:
+              precision    recall  f1-score   support
+
+  broadMatch       0.54      0.60      0.57       503
+  exactMatch       0.37      0.06      0.10       250
+ narrowMatch       0.63      0.75      0.68       807
+
+    accuracy                           0.59      1560
+   macro avg       0.51      0.47      0.45      1560
+weighted avg       0.56      0.59      0.55      1560
+

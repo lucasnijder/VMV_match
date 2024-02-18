@@ -1,0 +1,15 @@
+Overall Accuracy: 49 %
+Confusion Matrix:
+          Predicted 0  Predicted 1
+Actual 0       266140       271324
+Actual 1            1          555
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      0.50      0.66    537464
+           1       0.00      1.00      0.00       556
+
+    accuracy                           0.50    538020
+   macro avg       0.50      0.75      0.33    538020
+weighted avg       1.00      0.50      0.66    538020
+

@@ -1,0 +1,749 @@
+head;tail;relation
+Activity;Activity;0
+Person;Person;0
+Person;Natural Person;0
+Natural Person;Person;0
+Person;Person;0
+Place;Location;0
+Location;Place;0
+Place;Place;0
+Language;Language;0
+School;School;0
+Administrative Region;Administrative Area;0
+Administrative Area;Administrative Region;0
+Airport;Airport;0
+Album;Music Album;0
+Music Album;Album;0
+Bank;Bank Or Credit Union;0
+Bank Or Credit Union;Bank;0
+Body Of Water;Body Of Water;0
+Book;Book;0
+Book;Book;0
+City;City;0
+Event;Event;0
+Event;Event;0
+Film;Movie;0
+Movie;Film;0
+Hotel;Hotel;0
+Lake;Lake Body Of Water;0
+Lake Body Of Water;Lake;0
+Library;Library;0
+Mountain;Mountain;0
+Organisation;Organization;0
+Organization;Organisation;0
+Organisation;Social Person;0
+Social Person;Organisation;0
+Park;Park;0
+Radio Station;Radio Station;0
+Restaurant;Restaurant;0
+Shopping Mall;Shopping Center;0
+Shopping Center;Shopping Mall;0
+Sports Event;Sports Event;0
+Television Episode;TV Episode;0
+TV Episode;Television Episode;0
+Television Station;Television Station;0
+Website;Web Site;0
+Web Site;Website;0
+Agent;Agent;0
+Chemical Substance;Chemical Object;0
+Chemical Object;Chemical Substance;0
+Document;Document;0
+Work;Creative Work;0
+Creative Work;Work;0
+Topical Concept;Concept;0
+Concept;Topical Concept;0
+Sports Team;Sports Team;0
+River;River Body Of Water;0
+River Body Of Water;River;0
+Ski Area;Ski Resort;0
+Ski Resort;Ski Area;0
+company;organisation;1
+organisation;company;2
+person;animal;1
+animal;person;2
+actor;artist;1
+artist;actor;2
+publisher;company;1
+company;publisher;2
+genre;topical concept;1
+topical concept;genre;2
+department;governmental administrative region;1
+governmental administrative region;department;2
+software;work;1
+work;software;2
+school;educational institution;1
+educational institution;school;2
+type;topical concept;1
+topical concept;type;2
+moss;plant;1
+plant;moss;2
+videogames league;sports league;1
+sports league;videogames league;2
+ginkgo;plant;1
+plant;ginkgo;2
+coach;person;1
+person;coach;2
+sports manager;person;1
+person;sports manager;2
+winter sport Player;athlete;1
+athlete;winter sport Player;2
+cricket team;sports team;1
+sports team;cricket team;2
+military person;person;1
+person;military person;2
+speedway team;sports team;1
+sports team;speedway team;2
+volleyball league;sports league;1
+sports league;volleyball league;2
+academic journal;periodical literature;1
+periodical literature;academic journal;2
+administrative region;region;1
+region;administrative region;2
+aircraft;mean of transportation;1
+mean of transportation;aircraft;2
+airport;infrastructure;1
+infrastructure;airport;2
+album;musical work;1
+musical work;album;2
+american football player;gridiron football player;1
+gridiron football player;american football player;2
+amusement park attraction;architectural structure;1
+architectural structure;amusement park attraction;2
+Anime;cartoon;1
+cartoon;Anime;2
+artist;person;1
+person;artist;2
+artist discography;musical work;1
+musical work;artist discography;2
+artwork;work;1
+work;artwork;2
+asteroid;celestial body;1
+celestial body;asteroid;2
+automobile;mean of transportation;1
+mean of transportation;automobile;2
+automobile engine;engine;1
+engine;automobile engine;2
+Band;group;1
+group;Band;2
+bank;company;1
+company;bank;2
+baseball season;sports team season;1
+sports team season;baseball season;2
+basketball team;sports team;1
+sports team;basketball team;2
+beverage;Food;1
+Food;beverage;2
+body of water;natural place;1
+natural place;body of water;2
+book;written work;1
+written work;book;2
+bridge;route of transportation;1
+route of transportation;bridge;2
+building;architectural structure;1
+architectural structure;building;2
+bus company;public transit system;1
+public transit system;bus company;2
+chemical compound;chemical substance;1
+chemical substance;chemical compound;2
+city;settlement;1
+settlement;city;2
+city district;settlement;1
+settlement;city district;2
+classical music composition;musical work;1
+musical work;classical music composition;2
+Comedy Group;group;1
+group;Comedy Group;2
+comic;written work;1
+written work;comic;2
+comics character;fictional character;1
+fictional character;comics character;2
+convention;societal event;1
+societal event;convention;2
+criminal;person;1
+person;criminal;2
+cultivar (cultivated variety);plant;1
+plant;cultivar (cultivated variety);2
+cycling race;race;1
+race;cycling race;2
+cycling team;sports team;1
+sports team;cycling team;2
+drug;chemical substance;1
+chemical substance;drug;2
+earthquake;natural event;1
+natural event;earthquake;2
+Election;societal event;1
+societal event;Election;2
+engine;device;1
+device;engine;2
+enzyme;Biomolecule;1
+Biomolecule;enzyme;2
+Eurovision song contest entry;song;1
+song;Eurovision song contest entry;2
+movie;work;1
+work;movie;2
+film festival;societal event;1
+societal event;film festival;2
+football league season;sports team season;1
+sports team season;football league season;2
+football match;sports event;1
+sports event;football match;2
+game;activity;1
+activity;game;2
+golf tournament;tournament;1
+tournament;golf tournament;2
+government agency;organisation;1
+organisation;government agency;2
+Grand Prix;sports event;1
+sports event;Grand Prix;2
+historic building;building;1
+building;historic building;2
+historic place;place;1
+place;historic place;2
+hockey team;sports team;1
+sports team;hockey team;2
+horse race;race;1
+race;horse race;2
+hospital;building;1
+building;hospital;2
+hotel;building;1
+building;hotel;2
+HumanGene;gene;1
+gene;HumanGene;2
+information appliance;device;1
+device;information appliance;2
+insect;animal;1
+animal;insect;2
+lake;body of water;1
+body of water;lake;2
+legislature;organisation;1
+organisation;legislature;2
+library;educational institution;1
+educational institution;library;2
+locomotive;mean of transportation;1
+mean of transportation;locomotive;2
+magazine;periodical literature;1
+periodical literature;magazine;2
+manga;comic;1
+comic;manga;2
+military conflict;societal event;1
+societal event;military conflict;2
+military structure;architectural structure;1
+architectural structure;military structure;2
+military unit;organisation;1
+organisation;military unit;2
+monument;architectural structure;1
+architectural structure;monument;2
+motorsport season;sports season;1
+sports season;motorsport season;2
+mountain;natural place;1
+natural place;mountain;2
+museum;building;1
+building;museum;2
+musical;musical work;1
+musical work;musical;2
+musical artist;artist;1
+artist;musical artist;2
+national collegiate athletic association team season;sports team season;1
+sports team season;national collegiate athletic association team season;2
+national football league season;football league season;1
+football league season;national football league season;2
+newspaper;periodical literature;1
+periodical literature;newspaper;2
+olympics;sports event;1
+sports event;olympics;2
+organisation;agent;1
+agent;organisation;2
+Outbreak;event;1
+event;Outbreak;2
+park;place;1
+place;park;2
+Pharaoh;royalty;1
+royalty;Pharaoh;2
+philosopher;person;1
+person;philosopher;2
+planet;celestial body;1
+celestial body;planet;2
+plant;eukaryote;1
+eukaryote;plant;2
+play;written work;1
+written work;play;2
+political function;person function;1
+person function;political function;2
+political party;organisation;1
+organisation;political party;2
+politician;person;1
+person;politician;2
+power station;infrastructure;1
+infrastructure;power station;2
+programming language;language;1
+language;programming language;2
+protected area;place;1
+place;protected area;2
+protein;Biomolecule;1
+Biomolecule;protein;2
+racing driver;motorsport racer;1
+motorsport racer;racing driver;2
+radio host;presenter;1
+presenter;radio host;2
+radio program;work;1
+work;radio program;2
+radio station;broadcaster;1
+broadcaster;radio station;2
+railway line;route of transportation;1
+route of transportation;railway line;2
+record label;company;1
+company;record label;2
+religious;person;1
+person;religious;2
+reptile;animal;1
+animal;reptile;2
+research project;project;1
+project;research project;2
+restaurant;building;1
+building;restaurant;2
+road;route of transportation;1
+route of transportation;road;2
+road junction;route of transportation;1
+route of transportation;road junction;2
+roller coaster;amusement park attraction;1
+amusement park attraction;roller coaster;2
+royalty;person;1
+person;royalty;2
+rugby club;sports club;1
+sports club;rugby club;2
+rugby league;sports league;1
+sports league;rugby league;2
+rugby player;athlete;1
+athlete;rugby player;2
+sales;activity;1
+activity;sales;2
+settlement;populated place;1
+populated place;settlement;2
+ship;mean of transportation;1
+mean of transportation;ship;2
+shopping mall;building;1
+building;shopping mall;2
+single;musical work;1
+musical work;single;2
+soccer club;sports club;1
+sports club;soccer club;2
+soccer club season;sports team season;1
+sports team season;soccer club season;2
+soccer league;sports league;1
+sports league;soccer league;2
+soccer tournoment;tournament;1
+tournament;soccer tournoment;2
+song;musical work;1
+musical work;song;2
+sound;document;1
+document;sound;2
+space mission;societal event;1
+societal event;space mission;2
+sports event;societal event;1
+societal event;sports event;2
+sports league;organisation;1
+organisation;sports league;2
+Sports team member;Organisation member;1
+Organisation member;Sports team member;2
+star;celestial body;1
+celestial body;star;2
+station;infrastructure;1
+infrastructure;station;2
+Supreme Court of the United States case;Legal Case;1
+Legal Case;Supreme Court of the United States case;2
+television episode;work;1
+work;television episode;2
+television season;work;1
+work;television season;2
+television show;work;1
+work;television show;2
+television station;broadcaster;1
+broadcaster;television station;2
+tennis tournament;tournament;1
+tournament;tennis tournament;2
+tenure;time period;1
+time period;tenure;2
+theatre;venue;1
+venue;theatre;2
+top level domain;identifier;1
+identifier;top level domain;2
+town;settlement;1
+settlement;town;2
+trade union;organisation;1
+organisation;trade union;2
+train;mean of transportation;1
+mean of transportation;train;2
+university;educational institution;1
+educational institution;university;2
+venue;building;1
+building;venue;2
+video game;software;1
+software;video game;2
+village;settlement;1
+settlement;village;2
+weapon;device;1
+device;weapon;2
+website;work;1
+work;website;2
+Women's Tennis Association tournament;tournament;1
+tournament;Women's Tennis Association tournament;2
+wrestling event;sports event;1
+sports event;wrestling event;2
+writer;person;1
+person;writer;2
+written work;work;1
+work;written work;2
+year;time period;1
+time period;year;2
+year in spaceflight;time period;1
+time period;year in spaceflight;2
+constellation;celestial body;1
+celestial body;constellation;2
+battery;device;1
+device;battery;2
+chancellor;politician;1
+politician;chancellor;2
+cricket league;sports league;1
+sports league;cricket league;2
+golf league;sports league;1
+sports league;golf league;2
+lacrosse league;sports league;1
+sports league;lacrosse league;2
+olympic event;olympics;1
+olympics;olympic event;2
+presenter;person;1
+person;presenter;2
+speedway league;sports league;1
+sports league;speedway league;2
+water ride;amusement park attraction;1
+amusement park attraction;water ride;2
+broadcaster;organisation;1
+organisation;broadcaster;2
+cartoon;work;1
+work;cartoon;2
+case;unit of work;1
+unit of work;case;2
+celestial body;place;1
+place;celestial body;2
+document;work;1
+work;document;2
+gene;Biomolecule;1
+Biomolecule;gene;2
+gridiron football player;athlete;1
+athlete;gridiron football player;2
+group;organisation;1
+organisation;group;2
+infrastructure;architectural structure;1
+architectural structure;infrastructure;2
+Legal Case;case;1
+case;Legal Case;2
+motorsport racer;athlete;1
+athlete;motorsport racer;2
+natural event;event;1
+event;natural event;2
+natural place;place;1
+place;natural place;2
+Organisation member;person;1
+person;Organisation member;2
+periodical literature;written work;1
+written work;periodical literature;2
+project;unit of work;1
+unit of work;project;2
+race;sports event;1
+sports event;race;2
+region;populated place;1
+populated place;region;2
+route of transportation;infrastructure;1
+infrastructure;route of transportation;2
+societal event;event;1
+event;societal event;2
+sports club;organisation;1
+organisation;sports club;2
+sports team season;sports season;1
+sports season;sports team season;2
+tournament;sports event;1
+sports event;tournament;2
+australian football Team;sports team;1
+sports team;australian football Team;2
+sports team;organisation;1
+organisation;sports team;2
+Biological database;Database;1
+Database;Biological database;2
+brewery;company;1
+company;brewery;2
+broadcast network;broadcaster;1
+broadcaster;broadcast network;2
+combination drug;drug;1
+drug;combination drug;2
+dam;infrastructure;1
+infrastructure;dam;2
+fashion;topical concept;1
+topical concept;fashion;2
+galaxy;celestial body;1
+celestial body;galaxy;2
+law firm;company;1
+company;law firm;2
+martial artist;athlete;1
+athlete;martial artist;2
+monoclonal antibody;drug;1
+drug;monoclonal antibody;2
+motorcycle;mean of transportation;1
+mean of transportation;motorcycle;2
+public transit system;company;1
+company;public transit system;2
+railway tunnel;route of transportation;1
+route of transportation;railway tunnel;2
+river;stream;1
+stream;river;2
+ski area;sport facility;1
+sport facility;ski area;2
+skyscraper;building;1
+building;skyscraper;2
+sport;activity;1
+activity;sport;2
+stadium;venue;1
+venue;stadium;2
+vaccine;drug;1
+drug;vaccine;2
+wine region;place;1
+place;wine region;2
+wrestler;athlete;1
+athlete;wrestler;2
+Youtuber;person;1
+person;Youtuber;2
+Gnetophytes;plant;1
+plant;Gnetophytes;2
+Aircraft;Product;1
+Product;Aircraft;2
+Automobile;Product;1
+Product;Automobile;2
+Band;Music Group;1
+Music Group;Band;2
+Band;Social Person;1
+Social Person;Band;2
+Film Festival;Festival;1
+Festival;Film Festival;2
+Historic Building;Landmarks Or Historical Buildings;1
+Landmarks Or Historical Buildings;Historic Building;2
+Historic Place;Landmarks Or Historical Buildings;1
+Landmarks Or Historical Buildings;Historic Place;2
+Holiday;Time Interval;1
+Time Interval;Holiday;2
+Locomotive;Product;1
+Product;Locomotive;2
+Musical Artist;Natural Person;1
+Natural Person;Musical Artist;2
+Musical Artist;Music Group;1
+Music Group;Musical Artist;2
+Ship;Product;1
+Product;Ship;2
+Song;Music Recording;1
+Music Recording;Song;2
+University;College Or University;1
+College Or University;University;2
+Weapon;Product;1
+Product;Weapon;2
+Time Period;Time Interval;1
+Time Interval;Time Period;2
+Group;Organization;1
+Organization;Group;2
+Stadium;Stadium Or Arena;1
+Stadium Or Arena;Stadium;2
+broadcast network;radio station;5
+television station;broadcast network;5
+television station;radio station;5
+broadcast network;television station;5
+radio station;broadcast network;5
+case;project;5
+project;case;5
+cricket team;cycling team;5
+cricket team;hockey team;5
+basketball team;cycling team;5
+basketball team;hockey team;5
+australian football Team;cycling team;5
+Aircraft;Locomotive;5
+Ship;Weapon;5
+Weapon;Automobile;5
+Automobile;Ship;5
+Ship;Aircraft;5
+legislature;sports club;5
+group;broadcaster;5
+political party;sports league;5
+sports team;company;5
+legislature;government agency;5
+historic building;hotel;5
+skyscraper;restaurant;5
+historic building;venue;5
+historic building;hospital;5
+venue;hospital;5
+monoclonal antibody;combination drug;5
+combination drug;vaccine;5
+vaccine;combination drug;5
+combination drug;monoclonal antibody;5
+monoclonal antibody;vaccine;5
+gene;enzyme;5
+protein;gene;5
+enzyme;protein;5
+enzyme;gene;5
+gene;protein;5
+year in spaceflight;year;5
+tenure;year;5
+year;tenure;5
+year;year in spaceflight;5
+tenure;year in spaceflight;5
+sports event;space mission;5
+convention;sports event;5
+film festival;sports event;5
+space mission;convention;5
+sports event;military conflict;5
+settlement;region;5
+region;settlement;5
+rugby league;speedway league;5
+volleyball league;cricket league;5
+soccer league;speedway league;5
+speedway league;golf league;5
+golf league;videogames league;5
+planet;star;5
+constellation;star;5
+constellation;asteroid;5
+asteroid;constellation;5
+asteroid;star;5
+Comedy Group;Band;5
+Band;Comedy Group;5
+Holiday;Time Period;5
+Time Period;Holiday;5
+Historic Place;Historic Building;5
+Historic Building;Historic Place;5
+magazine;academic journal;5
+newspaper;magazine;5
+academic journal;newspaper;5
+newspaper;academic journal;5
+magazine;newspaper;5
+motorsport racer;wrestler;5
+rugby player;gridiron football player;5
+motorsport racer;winter sport Player;5
+wrestler;rugby player;5
+martial artist;motorsport racer;5
+software;television episode;5
+television season;television show;5
+television episode;website;5
+radio program;movie;5
+website;movie;5
+roller coaster;water ride;5
+water ride;roller coaster;5
+Musical Artist;Band;5
+Band;Musical Artist;5
+presenter;Youtuber;5
+Youtuber;artist;5
+Organisation member;writer;5
+royalty;sports manager;5
+philosopher;military person;5
+cultivar (cultivated variety);Gnetophytes;5
+Gnetophytes;cultivar (cultivated variety);5
+Gnetophytes;moss;5
+Gnetophytes;ginkgo;5
+cultivar (cultivated variety);ginkgo;5
+reptile;person;5
+insect;person;5
+person;insect;5
+person;reptile;5
+insect;reptile;5
+tournament;wrestling event;5
+race;olympics;5
+tournament;football match;5
+race;wrestling event;5
+football match;wrestling event;5
+library;university;5
+university;school;5
+library;school;5
+school;university;5
+school;library;5
+battery;weapon;5
+engine;weapon;5
+information appliance;battery;5
+weapon;information appliance;5
+information appliance;weapon;5
+theatre;stadium;5
+stadium;theatre;5
+sales;sport;5
+sales;game;5
+game;sport;5
+sport;sales;5
+game;sales;5
+road junction;road;5
+bridge;road junction;5
+railway line;road junction;5
+railway line;bridge;5
+railway line;railway tunnel;5
+actor;musical artist;5
+musical artist;actor;5
+tennis tournament;golf tournament;5
+soccer tournoment;golf tournament;5
+Women's Tennis Association tournament;soccer tournoment;5
+tennis tournament;soccer tournoment;5
+golf tournament;Women's Tennis Association tournament;5
+town;city;5
+city district;village;5
+city;village;5
+city district;city;5
+town;city district;5
+record label;publisher;5
+bank;law firm;5
+law firm;public transit system;5
+publisher;law firm;5
+brewery;public transit system;5
+wine region;historic place;5
+protected area;natural place;5
+park;protected area;5
+historic place;natural place;5
+protected area;park;5
+natural event;societal event;5
+societal event;Outbreak;5
+societal event;natural event;5
+Outbreak;natural event;5
+Outbreak;societal event;5
+type;fashion;5
+fashion;genre;5
+fashion;type;5
+type;genre;5
+genre;fashion;5
+periodical literature;book;5
+book;periodical literature;5
+comic;book;5
+play;book;5
+play;comic;5
+body of water;mountain;5
+mountain;body of water;5
+horse race;cycling race;5
+cycling race;horse race;5
+soccer club;rugby club;5
+rugby club;soccer club;5
+baseball season;national collegiate athletic association team season;5
+soccer club season;football league season;5
+soccer club season;baseball season;5
+national collegiate athletic association team season;football league season;5
+football league season;soccer club season;5
+album;musical;5
+album;song;5
+musical;song;5
+classical music composition;single;5
+song;artist discography;5
+amusement park attraction;military structure;5
+military structure;amusement park attraction;5
+amusement park attraction;monument;5
+building;infrastructure;5
+military structure;monument;5
+power station;airport;5
+route of transportation;airport;5
+airport;station;5
+station;power station;5
+route of transportation;dam;5
+motorsport season;sports team season;5
+sports team season;motorsport season;5
+drug;chemical compound;5
+chemical compound;drug;5
+motorcycle;aircraft;5
+motorcycle;train;5
+locomotive;automobile;5
+ship;train;5
+motorcycle;ship;5
