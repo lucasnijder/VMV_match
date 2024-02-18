@@ -1,0 +1,7 @@
+*.pth
+src/wandb/
+src/__pycache__/
+backup/
+backup1810/
+data/processed/predictions_matcher
+.vscode
