@@ -8,7 +8,7 @@ sys.path.append(os.path.abspath(os.path.join('..', 'src')))
 
 from utils import *
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "XXX"
 
 
 
